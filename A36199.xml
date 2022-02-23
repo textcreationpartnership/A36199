@@ -1,0 +1,820 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Sherlock's Two knights of Brainford brought upon the stage in a congratulatory letter to Mr. Johnson : occasioned by the doctor's vindication of himself in taking the oath of allegiance to Their Majesties after the time, indulg'd by the law, was expired.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 111 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36199</idno>
+            <idno type="STC">Wing D1766</idno>
+            <idno type="STC">ESTC R31333</idno>
+            <idno type="EEBO-CITATION">11910919</idno>
+            <idno type="OCLC">ocm 11910919</idno>
+            <idno type="VID">50831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1002:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Sherlock's Two knights of Brainford brought upon the stage in a congratulatory letter to Mr. Johnson : occasioned by the doctor's vindication of himself in taking the oath of allegiance to Their Majesties after the time, indulg'd by the law, was expired.</title>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 40.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherlock, William, 1641?-1707.</term>
+               <term>Johnson, Samuel, 1649-1703.</term>
+               <term>Oaths --  England.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50831:1"/>
+            <pb facs="tcp:50831:1" rendition="simple:additions"/>
+            <p> D<hi rend="sup">r.</hi> SHERLOCK's TWO KINGS OF BRAINFORD Brought upon the Stage.</p>
+            <p>IN A <hi>Congratulatory Letter</hi> TO Mr. <hi>JOHNSON.</hi>
+            </p>
+            <p>Occaſioned by The <hi>Doctor</hi>'s Vindication of Himſelf in Taking the Oath of Allegiance to Their Majeſties after the Time, indulg'd by the Law, was expired.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1690.</p>
+            <pb facs="tcp:50831:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:50831:2" rendition="simple:additions"/>
+            <head>D<hi rend="sup">r.</hi> SHERLOCK's Two Kings OF BRAINFORD Brought upon the STAGE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis is to congratulate your Victory over that <hi>Paſſive Obe<g ref="char:EOLhyphen"/>dience</hi> Doctrine, the Chief <hi>Confeſſor</hi> of which is far from imitating you; who were a real <hi>Martyr</hi> for that Truth, which is oppoſite to it.</p>
+            <p>The Great <hi>Champions</hi> on the other ſide, were Dean <hi>Hicks</hi> and Dr. <hi>Sherlock;</hi> theſe gave the word to the Party; the firſt would prove it by Man's Law, the laſt by God's; and thus the Laws both Humane and Divine, were preſs'd into its Service.</p>
+            <p>Dean <hi>Hicks</hi> his laſt Effort for it was, in Signing or Dictating the Weak Dying Declaration of the late Biſhop of <hi>Chicheſter,</hi> who had ſuck'd it in with his Milk, and might be thought to dye with a Surfeit of it. But the <hi>Dean</hi> finds yet no occaſion to renounce any part of that Doctrine, the Defence of which, ſome ſay, pro<g ref="char:EOLhyphen"/>cured his Deanery. According to his <hi>Golden Book,</hi> God himſelf had fix'd his Allegiance unalterably to the <note place="margin">Vid. Dr. <hi>H.</hi> his <hi>Jovian.</hi>
+               </note> 
+               <hi>Late King,</hi> as long as he ſhould live; and to the <hi>Sham Prince</hi> after him: unleſs his Spurious Birth be fully
+<pb n="4" facs="tcp:50831:3"/> proved. For the <hi>Dean</hi> had taught, that God had <note place="margin">
+                  <hi>Preface to</hi> Jov. p 56.</note> given the <hi>Imperial Crown of</hi> England <hi>for an inalienable Inheritance to the Royal Family,</hi> that is, as he immediate<g ref="char:EOLhyphen"/>ly explains it, <hi>to the next Heir upon the Line: to exclude whom or any Perſon of the Royal Family, from the Abſolute Right or Birth-right which God alone had given him,</hi> he aſſerted to be to oppoſe the <hi>Will of God:</hi> nor does he ſeem yet, to have thought of our <hi>Doctor's</hi> Diſtinctions for Preſerving and maintaining the Right of ſuch an one, and yet obeying another, as having <hi>Gods Authority:</hi> Wherein the Doctor ſets up Two Kings, one <hi>of Right,</hi> the other <hi>by Providence.</hi> But upon this Point, the two Brotherly Champions are divided, and leave you Maſter of the Field, while they engage againſt each other. That Dr. <hi>Sherlock</hi> gives up the Point of Succeſſion, and ſays, what amounts to a total yielding the Cauſe to you, may appear from the moſt Curſory Conſideration of his Book, and tho I muſt confeſs he has a great Art in <hi>Startleing</hi> his Reader, <note place="margin">
+                  <hi>Pag.</hi> 3.</note> and helping himſelf off from Aſſertions, which at firſt look very Groſs; yet I cannot but think, that in the main he leaves either himſelf, or his Beloved Doctrine, without Excuſe: and where his preſent Actions oblige him to depart from it, he ſhews it is like a parting <hi>with a right hand, or right Eye;</hi> and therein, indeed, does more for the Government than other Men; and en<g ref="char:EOLhyphen"/>dures little leſs than Martyrdom. I need not profeſs to you, that I have no diſeſteem for the Man, but his Opinions, in relation to Civil and Eccleſiaſtical Government, are, in my appre<g ref="char:EOLhyphen"/>henſion, ſo Derogatory from the Goodneſs of God, <note place="margin">
+                  <hi>Vid.</hi> Anony<g ref="char:EOLhyphen"/>mus <hi>his Let<g ref="char:EOLhyphen"/>ters to him about Church Communion.</hi>
+               </note> ſo uncharitable to Men, and deſtructive to Humane Societies; that I long ſince thought my ſelf bound publickly to avow my diſlike of them; tho<g ref="char:punc">▪</g> the Government, and conſequently, in his Senſe, <hi>Gods Au<g ref="char:EOLhyphen"/>thority</hi> were on his ſide; as I am ſure the Government is now on mine, it being founded upon Legal Principles, as directly contrary to his, as he often is to himſelf.</p>
+            <p>I maintain, by Law, that their Majeſties are <hi>rightful</hi> King and Queen, and came by their Power by <hi>due</hi> means; which is im<g ref="char:EOLhyphen"/>poſſible to be proved upon his Grounds.</p>
+            <p>The Abſurdity, and perhaps, Blaſphemy of his, you can beſt ſet in their true Light, and expoſe to the juſt Abhorrence of Man<g ref="char:EOLhyphen"/>kind; and have already done it by way of Anticipation.</p>
+            <p>But tho you have gained the Victory over his Opinions about Civil Government, and every Laſh you bore for the ſake of our Engliſh Liberties, ſhall riſe about you in Circles of Glory; yet
+<pb n="5" facs="tcp:50831:3"/> ſuch Men will be likely to reap the Spoil; till they who maintain the <hi>Right</hi> to be in King <hi>James,</hi> ſhall, as the Law declares them, if they act accordingly, be adjudged Traytors to <hi>their Majeſties:</hi> and till the Principles of <hi>Hobbs</hi> and <hi>Matchiavel</hi> become as Odious, as the <hi>Doctrine</hi> of our Pretenders <hi>to the Spirit of the Church of</hi> England, was in the time of King <hi>James.</hi> 
+               <note place="margin">
+                  <hi>Vid. Dr. H's Sermon. Vid. Dr.</hi> Sher<g ref="char:EOLhyphen"/>lock<hi>'s Caſe of reſiſt<g ref="char:EOLhyphen"/>ance.</hi>
+               </note> When that <hi>Sovereign Power,</hi> which was taught to <hi>be inſeparable from his Perſon,</hi> and could <hi>make Repeal, and Diſpence with Laws,</hi> touch'd but the Hem of the Cano<g ref="char:EOLhyphen"/>nical Garments; then the Dying Voice of a Meek <hi>Moſes,</hi> and the louder Cry of that Blood, which was Sacrificed to their <hi>Idol,</hi> could not be heard for the Jangling of <hi>Aaron</hi>'s <hi>Bells.</hi> Then they who had been tranſported with the Fallacious Promiſe of Maintaining the Church of <hi>England,</hi> began to bethink themſelves that there was not the leaſt word of Religion: and what comfort could it be to them, to have <hi>Diana</hi>'s Greatneſs out of Danger, when others were likely to enjoy the Profit of the <hi>Shrines?</hi> Till then the King's <hi>Moſt Illegal Acts</hi> had the <hi>Authority of Sovereign Power;</hi> that is, as the <note place="margin">Caſe of re<g ref="char:EOLhyphen"/>ſiſtance.</note> Doctor tells us, <hi>Gods Authority:</hi> and it would be hard if that Authority could not make them Legal.</p>
+            <p>They thought they had this faſt on their ſide, and not fore<g ref="char:EOLhyphen"/>ſeeing any Probability that there would be a Flaw in the Suc<g ref="char:EOLhyphen"/>ceſſion, till this <hi>Generation ſhould paſs away;</hi> by making that Sacred and Inviolable, they hop'd to ſecure Reverence and Authority to themſelves, who had taught the Oracles to <hi>Philippize,</hi> and ſpeak as the Preſent Powers would have them.</p>
+            <p>On the other ſide, King <hi>James</hi> and his Sottiſh Prieſts, thought thoſe Warm Men of our Clergy, believed their own Doctrine, and would inculcate it to their People, however even the Clergy themſelves ſhould be uſed: And finding the Lay-Herd, like the Tribe of <hi>Iſſachar,</hi> imagined that the <hi>Levites,</hi> who had taught them to crouch under their Burden, would have had more Mo<g ref="char:EOLhyphen"/>deſty and Senſe of Shame, than to be Clamorous.</p>
+            <p>But certain it is, how much ſoever they inveigh'd againſt your true Repreſentation of the Behaviour of the Primitive Chriſtians towards <hi>Julian;</hi> they out-went the Pattern, and were beholden to you for their Juſtification.</p>
+            <p>Far be it from me, in the leaſt to reflect upon <hi>the</hi> 
+               <note place="margin">
+                  <hi>Vid. Pref.</hi> p. 4.</note> 
+               <hi>Body</hi> of the Engliſh Clergy: their Learning the World Admires, their Prayers at leaſt, called for their Majeſties; and
+<pb n="6" facs="tcp:50831:4"/> the moſt of them Swore Allegiance to them as ſoon as the Law re<g ref="char:EOLhyphen"/>quired it; and, it is to behop'd, with Sincerity.</p>
+            <p>Yet if they were means of delaying our Settlement, or of under<g ref="char:EOLhyphen"/>mining it, I ſhould not think my ſelf Guilty of <hi>Profaneneſs</hi> or <hi>Infi<g ref="char:EOLhyphen"/>delity</hi> in telling them, they would thereby <hi>Blacken</hi> them<g ref="char:EOLhyphen"/>ſelves, and Obſtruct the Propagation of that Reli<g ref="char:EOLhyphen"/>gion <note place="margin">
+                  <hi>Vid. the Do<g ref="char:EOLhyphen"/>ctor's Pref.</hi> p. 4.</note> which by Profeſſion they ſhould promote: The Blemiſhes of the Guilty ought by no means to be conceal'd, if it were for no other reaſon than to advance the Honour of the reſt; yet I think there is a much better ground for expoſing them, which is, that they Entitling Religion to their Quarrels and Abſurd Errors, thereby expoſe Religion its ſelf, till their Chaff be ſeparated.</p>
+            <p>The Jewiſh Clergy were as Sacred in their Perſons, as pompus in their Ceremonies, and more Abſolute in their Authority: and yet thoſe Acts of a Convocation, which are Trumpt up, as a new Revelation, to Support a Baffled Doctrine, ſeem to think matter of Inſtruction contained in the Deſcription of the Miſeries which befell the <hi>Jews,</hi> and how <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> 
+               <note place="margin">
+                  <hi>Biſhop</hi> Over<g ref="char:EOLhyphen"/>all<hi>'s Convoca<g ref="char:EOLhyphen"/>tion Book,</hi> p. 72.</note> 
+               <hi>went in thoſe days, when the Prieſts had gotten the Reins in their own hands.</hi>
+            </p>
+            <p>How far our Clergy did thruſt themſelves into the State in the time of the two <hi>Charles's,</hi> and what were the Effects of their Interpoſition, I ſhall not now enquire; 'tis certain the Romiſh Prieſts drove their <hi>Votary</hi> to a Fatal Precipice: and ſome of our <hi>Church-men,</hi> but many of their moſt Zealous Diſciples, to their Praiſe be it ſpoken,, invited our <hi>Deliverer,</hi> and, in appearance, entirely cloſed with the Deliverance. till, as it was upon the Diſcovery of the Popiſh Plot, they found the Number and Since<g ref="char:EOLhyphen"/>rity of others more remarkable; and thinking their handful would be loſt in the Croud, they betook themſelves to another Multi<g ref="char:EOLhyphen"/>tude, the Criminals in former Reigns. And, as Evil Miniſters could not be called to account, but the Throne was thought to be Shaken, becauſe of their running behind it: no Man could be in danger of being made an Example for Subverting the Laws, but he found a Sanctuary in the <hi>Church,</hi> or a Protection in the very Name of it. Though the Clemency of the Government freed them from their juſt Fears, they ſoon ſhewed that thoſe Methods were ſo far from reclaiming them, that they took En<g ref="char:EOLhyphen"/>couragement to divide the <hi>State,</hi> and make <note place="margin">Vid. <hi>Mr.</hi> Dodwell<hi>'s one Altar, one Prieſthood.</hi>
+               </note> a <hi>Schiſm</hi> in the <hi>Church,</hi> even in their own
+<pb n="7" facs="tcp:50831:4"/> Senſe, ſetting up <hi>Altar againſt Altar:</hi> The <hi>Separate Church</hi> had its peculiar Forms of <hi>Prayer,</hi> and the Breach was every day growing wider and wider, as the Deſigns of <hi>France</hi> haſtned to<g ref="char:EOLhyphen"/>wards a Birth: How many ſtood on Tip-toes, expecting a friendly Deſcent of <hi>French Dragoons,</hi> and other <hi>Romiſh Miſſionaries!</hi>
+            </p>
+            <p>But let me tell you, King <hi>William</hi>'s Sword carries more Conviction withit, than all your dint of Argument; his Paſſage over the <hi>Boyne</hi> was not more amazing to the World, than it was ſtupifying to them; its <hi>paſſive</hi> Waters, like thoſe of <hi>Lethe,</hi> made them forget their for<g ref="char:EOLhyphen"/>mer Thoughts. Had he periſh'd there, he had been damn'd from <hi>Chair</hi> and <hi>Pulpit,</hi> as an ambitious Uſurper, and they only not call him ſo now.</p>
+            <p>They <hi>thank God that they had no ſhare</hi> in what they account a Sin in him, and in all them whom After-Ages <note place="margin">Vid. <hi>Dr. S's Thanksgiving Sermon which he is deſired to Print.</hi>
+               </note> ſhall celebrate, for freeing themſelves from thoſe Incantations, which would have kept them faſt bound from miniſtring to that <hi>Providence,</hi> which loudly call'd for their Service.</p>
+            <p>Now <hi>Providence</hi> has declar'd for <hi>Their Majeſties,</hi> and <hi>God</hi> is with them, if the Doctor believes himſelf; yet he has found means, if Providence ſhould change its Courſe (to the Tryal of which he too plainly invites the late King) to recommend himſelf to his good Graces: as his not being forward to comply with the Revolution; and when he did, doing it upon ſuch Principles as by no means juſtifie it.</p>
+            <p>Of all the Paſſages which make for the late King, the following is not the leaſt worthy of regard.</p>
+            <p>
+               <hi>The Providence of God,</hi> ſays the Doctor, <hi>removes Kings and ſets up Kings, but alters no Legal Rights, nor forbids thoſe who are diſpoſſeſſed of them, to recover their Right when</hi> 
+               <note place="margin">
+                  <hi>Caſe of Alleg</hi> pag. 56.</note> 
+               <hi>they can,</hi> &amp;c. <hi>A legal and ſucceſſive Right is the ordinary way whereby the Providence of God advances Princes to any hereditary Throne. And this bars all other humane Claims; but yet God may give the Throne to another if he pleaſes, and this does not deſtroy the legal Right of the diſpoſſeſſed Prince, nor hinder him from claiming it when he finds his Opportunity.</hi> In which,</p>
+            <list>
+               <item>1. He is inconſiſtent with himſelf.</item>
+               <item>2. He makes nothing of God's Authority.</item>
+            </list>
+            <p n="1">1. <hi>The Law,</hi> ſays he, <hi>looks upon the Crown as hereditary,</hi> 
+               <note place="margin">P. 56.</note> 
+               <hi>and the Change of the Perſon or Royal Family does not make the Crown ceaſe to be hereditary; and therefore whoever has Poſſeſſion of the Crown has an hereditary Crown; and leaves it to his Heirs, as long</hi>
+               <pb n="8" facs="tcp:50831:5"/> 
+               <hi>as they can keep it: as is plain from the Example of the three</hi> Henries <hi>who ſucceeded each other.</hi>
+            </p>
+            <p>Here he makes the Fact to argue a Right; and whoever has a ſetled Poſſeſſion of the Crown, has, according to him, an <hi>heredi<g ref="char:EOLhyphen"/>tary Crown</hi> in the Eye of the Law, and <hi>leaves</hi> it to <hi>his Heirs,</hi> which muſt be meant of a legal Right of Succeſſion. The Inſtance he gives, is of them who came not to the Poſſeſſion of the Crown as right Heirs, upon the ſuppos'd fundamental Settlement; and is a manifeſt departure from his Aſſertion, That ſuch a Poſſeſſion <hi>al<g ref="char:EOLhyphen"/>ters no legal Right:</hi> unleſs he will have it, that two may have, not only different Titles to the ſame Crown, the one by <hi>legal Right,</hi> the other by <hi>Providence;</hi> but that both may have real <hi>legal Right</hi> upon different Titles: which, indeed, how great ſoever the Incon<g ref="char:EOLhyphen"/>ſiſtency be, he plainly does; for the diſpoſſeſſed Prince has, with him, a legal Right unalter'd: and yet he yeilds the other has a legal Right according to the Law of this <hi>hereditary Monarchy.</hi> which will evidently appear, if we conſider that this odd Notion of Hereditary Monarchy was fram'd to avoid the force of an Objecti<g ref="char:EOLhyphen"/>on, That <hi>the Law makes it Treaſon to kill the King's eldest Son, as well as to kill the King:</hi> and therefore if it ſhould relate to every King in Poſſeſſion, might he a means of ſecuring the <note place="margin">
+                  <hi>Pag.</hi> 56.</note> Crown to an Uſurper; who, as is ſaid by the Objector, <hi>has no Right himſelf,</hi> and therefore his Heirs have no Right to Succeſſion.</p>
+            <p>He anſwers by that new Conceit of his own, whereby he will have it, That the Poſſeſſor of a Crown, without any expreſs or implied Conſent of the Subjects, may <hi>by Law</hi> leave this to his Heirs; what is added, <hi>as long as they can keep it,</hi> does not diminiſh this <hi>legal Right,</hi> while <hi>they keep it.</hi>
+            </p>
+            <p>If therefore, during ſuch Poſſeſſion the ejected Prince, or his Heir, ſhould with Arms oppoſe him that is inveſted with the Pow<g ref="char:EOLhyphen"/>er, the Doctor muſt not deny, that he would fight againſt one, who has the <hi>Law,</hi> and <hi>God's Authority,</hi> on his ſide.</p>
+            <p>Which leads me to prove, that</p>
+            <p n="2">2. He makes nothing of God's Authority, either in relation to Princes, or to Subjects; by admitting, That tho' a Prince is plac'd and ſetled in the Throne by <hi>God</hi> himſelf; yet he who had the Right before that Settlement may ſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l fight for it.</p>
+            <p>
+               <hi>Obj.</hi> If it be ſaid that the Subject-matter confines his Poſition concerning God's Authority tho' ſpoken abſolutely, to the Duty of Subjects, who are by God himſelf diſcharged from their Alle<g ref="char:EOLhyphen"/>giance, but concerns not the diſpoſſeſſed, or any foreign Prince.</p>
+            <pb n="9" facs="tcp:50831:5"/>
+            <p> 
+               <hi>Anſw.</hi> 1. Then at leaſt this ſhews, That a Prince in Poſſeſſion has not <hi>God's Authority</hi> abſolutely, for that is to be reſiſted by no Perſon whatſoever.</p>
+            <p n="2">2. But more particularly, Admit every Act done by the Poſſeſ<g ref="char:EOLhyphen"/>ſor towards a Settlement were ſinful, yet as ſoon as, and for the Time that he is ſetled, if the Doctor ſtand to his own Notion, the Prince who uſurp'd upon the other has God's Authority of his immediate Gift: <hi>God, the Sovereign Lord of all things,</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 15.</note> 
+               <hi>did ſet him up without regard to Law or legal Right: nor does</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 2.</note> 
+               <hi>it,</hi> with the Doctor, <hi>make any difference in this caſe to diſtin<g ref="char:EOLhyphen"/>guiſh between what God permits and what he does; the Event</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 12.</note> 
+               <hi>is ordered by God: and the Scripture,</hi> he ſays, expreſly tells <note place="margin">
+                  <hi>Pag.</hi> 34.</note> us, <hi>that Kingdoms are diſpoſed by God.</hi>
+            </p>
+            <p>If therefore the Kingdom be taken from the ejected Prince, and given to another by God himſelf authoritatively, not barely by permiſſion, (and ſurely all his Acts muſt have Authority) 1. Does not the diſpoſſeſſed Prince, in fighting for it, deny the Authority and Force of <hi>God</hi>s Gift? 2. Does not God himſelf warrant him that is in Poſſeſſion to defend his Gift? or, 3. Shall it be ſaid agreeably to the Doctor himſelf, that God deſign'd to take it away again, till, by reſtoring the Power to the other, he has given him the Stamp or Sign of his <hi>Authority.</hi>
+            </p>
+            <p>Till the Doctor anſwer theſe Queſtions with ſome Conſiſtency, it may well be held, that the Attempt for a Reſtoration cannot be juſtified till Succeſs; and by conſequence no more than any Uſur<g ref="char:EOLhyphen"/>pation; nay, here is an Uſurpation upon God's Authority, and Legal Authority, the Doctor tells us, is but Man's. <note place="margin">
+                  <hi>Pag.</hi> 25.</note> But if God's Authority is no Reaſon why a diſpoſſeſſed Prince may not ſtrive to regain the Poſſeſſion; how can that be a reaſon, why thoſe who live within that Kingdom, and have never bound themſelves by Oath to the Poſſeſſor, or taken benefit of his Protection, and had ſworn to maintain the others Rights; may not, when they can, put themſelves under their former Prince, or any other to whom he will reſign his Pretenſions.</p>
+            <p>If God's Authority in giving the Kingdom may be oppos'd by the ejected Prince; it may be thought a much ſtronger Caſe for the Non-ſwearing Multitude; becauſe God had never decided the Chance againſt them directly, as he had done againſt the Prince: however, there would be this only Difference that the People re<g ref="char:EOLhyphen"/>ſiſted <hi>God's Authority over them; the Prince God's Authority againſt him.</hi>
+            </p>
+            <p n="3">3. If God has taken the Kingdom from the diſpoſſeſſed <hi>Prince,</hi> he becomes but a <hi>private Perſon.</hi>
+            </p>
+            <pb n="10" facs="tcp:50831:6"/>
+            <p>Beſides, the Subjects being oblig'd to obey <hi>God's Authority</hi> with the other, how can the <hi>Right</hi> of Government be where it is not the Subjects Duty to obey, if not actually, yet when there is opportunity? But while the Poſſeſſor is ſetled, <note place="margin">
+                  <hi>Page</hi> 14.</note> the Doctor owns, that he alone has <hi>God's Authority</hi> to govern them, and God requires their Obedience.</p>
+            <p>Wherefore it can never be lawful for the Prince out of Poſſeſſion to attempt a Recovery of it, till the Subjects are diſcharg'd from their Obedience to the other; ſo that the Subjects may fight againſt the Poſſeſſor of the Crown as well, and as ſoon, as the former King.</p>
+            <p n="4">4. If a foreign Prince ſhould, without receiving any Injury, or being invited by them that have, be at liberty to follow the Tem<g ref="char:EOLhyphen"/>ptation of Ambition; tho another is, by God himſelf, appointed and ſetled King within ſuch a particular Dominion; would not this be contrary to <hi>God's Authority?</hi> nay, if Injury ſhould warrant any other Prince not only to damnifie this Prince and his Subjects in proportion to the Injury received, but to ſtrive for the Crown, when he has a fair Game for it; may not Subjects, in the like Cir<g ref="char:EOLhyphen"/>cumſtances as well ſhake off <hi>God's Authority,</hi> as the other go about to unſettle and diſlodge it, and make himſelf King, where God had appointed an other to be his Vicegerent?</p>
+            <p n="5">5. If the diſpoſſeſſed Prince, or any other, may fight againſt God's Authority, where it is ſetled without regard to another Prince's Right; let the Doctor, if he can, aſſign a Reaſon why the Subject, unleſs humane Law otherwiſe provide, may not fight againſt the <hi>ſame Authority,</hi> when exerci<g ref="char:EOLhyphen"/>ſed <hi>without any regard to Laws?</hi> or when the Prince <note place="margin">
+                  <hi>Caſe of Allegi<g ref="char:EOLhyphen"/>ance,</hi> page 2.</note> aſſumes an abſolute Power, where the Con<g ref="char:EOLhyphen"/>ſtitution gave but a limited one. The moſt probable Account why a Prince may fight after running away is, that he never yielded, or promiſed not to try another <note place="margin">Vid. pag. 9. <hi>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Submiſſion of the Prince indeed may be thought neceſſary to transfer a legal Right.</hi>
+               </note> 
+               <hi>Chance</hi> or more favourable Providence: and the ſame holds for the Subject, who has no way, in Perſon, or by his Repreſentatives, conſented to that Power which the Prince aſſumes: nay, this is ſtron<g ref="char:EOLhyphen"/>ger on the Subjects ſide; for till ſuch Conſent, the Prince is not poſſeſſed of an abſolute Power, tho God has given him the other's Crown.</p>
+            <p>In ſhort, the Doctor owning that a Prince who came to a Crown by undue means, has God's Authority when he is ſetled, and yet
+<pb n="11" facs="tcp:50831:6"/> that the Prince rejected by God, may fight againſt his Authority, whenever he has an inviting Opportunity, does, as Cicero ſays of the <hi>Epicuraeans,</hi> 
+               <q rend="margQuotes">
+                  <hi>in Name place God in the Government,</hi>
+               </q>
+               <note place="margin">Nomine ponere re tollere Deos.</note> but in Reality exclude him.</p>
+            <p>Since the Doctor ſeems to look upon himſelf as of a Nature ſu<g ref="char:EOLhyphen"/>perior to other Men, at leaſt, <hi>His Thoughts are not as their Thoughts;</hi> I ſhall not preſume to judge of them otherwiſe, than as he explains or hints them, in juſtifying in the lump all <hi>that</hi> 
+               <note place="margin">
+                  <hi>Preface,</hi> p. <hi>penult.</hi>
+               </note> 
+               <hi>ever he taught,</hi> that is not here particularly <hi>retracted.</hi>
+            </p>
+            <p>This I conceive may be my Warrant for drawing together a Scheme of his Book into a Speech to the old <hi>Paſſive Obedience Men,</hi> and all others who may ſtand at gaze.</p>
+            <floatingText xml:lang="eng" rend="margQuotes" type="mock_speech">
+               <body>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>Tho I was long ſince ſatisfied that our Religion, <note place="margin">
+                        <hi>Vid. pag.</hi> 50.</note> Laws, and Liberties, could not, without a Mira<g ref="char:EOLhyphen"/>cle, be preſerved, but by this Government, and <note place="margin">
+                        <hi>The Words in</hi> Italick <hi>are his own.</hi>
+                     </note> that the Return of the late King, after his reſigning himſelf into the Hands, as well as Conduct, of the <hi>French</hi> King, muſt have involved the Nation in un<g ref="char:EOLhyphen"/>ſpeakable <note place="margin">
+                        <hi>Vid. pag.</hi> 50.</note> Calamities; yet, as much as the Autho<g ref="char:EOLhyphen"/>rity of my Example could prevail, I ſtrengthned the hands of the Enemies to the Peace of our Iſrael: but having <hi>forfeited my Preferments,</hi> by not giving that Aſſurance <note place="margin">
+                        <hi>Pref. pag.</hi> 1.</note> which the Law required, of being True to their preſent Majeſties, <hi>it is the moſt probable Conjecture, that I acted ve<g ref="char:EOLhyphen"/>ry honeſtly and ſincerely;</hi> and that I never thought there was any poſſibility of King <hi>James</hi> his Return, to reward my Loyalty to him <hi>without Reſerve.</hi>
+                  </p>
+                  <p>I ſhall <hi>fairly repreſent my Thoughts about this matter,</hi> and <note place="margin">
+                        <hi>Page</hi> 66.</note> ſhall take <hi>all due care not to impoſe upon my ſelf, nor others, by ſome little Fallacies.</hi> To ſpeak plainly, This being an <hi>hereditary Mo<g ref="char:EOLhyphen"/>narchy,</hi> I thought the preſent Settlement an Uſurpation, and that Uſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pations are not to be obeyed. I think it an Uſurpation ſtill, but find we ſhould be ruined if we might not obey Uſurpers; I ex<g ref="char:EOLhyphen"/>cept the <hi>Rump Parliament,</hi> and all Enemies to the Church of <hi>England.</hi> After I had <hi>heartily prayed</hi> that <hi>I might not forfeit the Exerciſe</hi> 
+                     <note place="margin">
+                        <hi>Pref. p.</hi> 3.</note> 
+                     <hi>of my Miniſtry for a meer Miſtake,</hi> and continued to pray that <hi>I might not forfeit</hi> after I had forfeited, and yet exercis'd it after the Forfeiture; at laſt I found out two Expedients for the <hi>Monarchy.</hi> 1. That every one who could catch it had an hereditary Mo<g ref="char:EOLhyphen"/>narchy;
+<pb n="12" facs="tcp:50831:7"/> for ſome Uſurpers have left it to their Heirs: 2. That whatever the Conſtitution may be, it is but humane, and muſt yield to the divine Law of Providence.</p>
+                  <p>This ſeem'd to be <hi>new</hi> and <hi>ſingular,</hi> and therefore I ſuſpected the Thought or Inſpiration, call it which you pleaſe, or at leaſt feared it would never paſs for currant Doctrine, unleſs I could get it to be ſtamp'd with Church Authority. This I was the more puzled to do, becauſe I found our Homilies to be very ſtiff for adhering to a <hi>Natural Prince.</hi> But would you think it, that very Declaration of our Church, which the Conclave at <hi>Lambeth</hi> publiſh'd, you may be ſure not without conſulting me, to juſti<g ref="char:EOLhyphen"/>fie not Swearing Allegiance to their Majeſties, <hi>confirm'd my for<g ref="char:EOLhyphen"/>mer Notions, and ſuggeſted ſome new Thoughts to me, which removed thoſe Difficulties which I could not before conquer.</hi>
+                  </p>
+                  <p>That taught me to obey the Power which is uppermoſt, tho the Form of Government be <hi>degenerate.</hi> Call it <hi>Rump,</hi> or what you will. That taught me to pray for <hi>King</hi> 
+                     <note place="margin">
+                        <hi>Caſe of Allegi<g ref="char:EOLhyphen"/>ance,</hi> page 4. <hi>Pref.</hi> page 2.</note> William <hi>and Queen</hi> Mary <hi>by Name, according to the Apoſtle's Directions to pray for all that are in Authority.</hi> And this I did before I own'd that they were the <hi>Power</hi> which God had ordained; but now <hi>I thank God I have received that Sa<g ref="char:EOLhyphen"/>tisfaction which I deſired, from theſe ſelf-evident Princi<g ref="char:EOLhyphen"/>ples, tho they were long hid from my eyes.</hi> 
+                     <note place="margin">
+                        <hi>Pref.</hi> page 2.</note>
+                  </p>
+                  <p n="1">1. That <hi>Allegiance is due, not for the ſake of Legal Right, but Government;</hi> that is, not upon the account of <note place="margin">
+                        <hi>Pag.</hi> 2.</note> Right, but of Force; <hi>when thoſe who will not ſub<g ref="char:EOLhyphen"/>mit, may be cruſh'd at the pleaſure</hi> of the Prince in <note place="margin">
+                        <hi>Pag.</hi> 9.</note> Poſſeſſion.</p>
+                  <p n="2">2. <hi>Allegiance is due not to bare Legal Right, but to the</hi> 
+                     <note place="margin">
+                        <hi>Pag.</hi> 2.</note> 
+                     <hi>Authority of God:</hi> That is, not confin'd within Legal Bounds, but is due to <hi>Gods Authority,</hi> to which no<g ref="char:EOLhyphen"/>thing can give Bounds: Or if you will have it in other <note place="margin">
+                        <hi>Caſe of Re<g ref="char:EOLunhyphen"/>ſiſt.</hi> p. 197.</note> words, to a <hi>Power Independent on Laws.</hi>
+                  </p>
+                  <p n="3">3. <hi>God, when he ſees fit, ſets up Kings without any regard to Legal Right, or Humane Laws.</hi>
+                  </p>
+                  <p n="4">4. <hi>Kings, thus ſet up by God, are inveſted with Gods Authority:</hi> And that you may not think that I mean, <note place="margin">
+                        <hi>Pag.</hi> 3.</note> that only they that are ſet up by God, without re<g ref="char:EOLhyphen"/>gard to Right and Laws, have a Power without Limitation, you muſt conſider, that Allegiance is due to Gods unlimited Autho<g ref="char:EOLhyphen"/>rity
+<pb n="13" facs="tcp:50831:7"/> in all <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hatever, for their very Perſons are the <hi>Higher Powers,</hi> and Authority <hi>is not in Laws,</hi> 
+                     <note place="margin">
+                        <hi>Caſe of Re<g ref="char:EOLhyphen"/>ſiſtance. Pag.</hi> 13. <hi>Laws were never called the Higher Powers 'neither in Sacred nor Profane Writers,</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>in the New Teſtament always ſignifies the Authority of a Perſon. ibid.</hi> p. 194.</note> 
+                     <hi>but in Perſons;</hi>or rather as the Powers are Perſons, and Perſons Powers; it is not in Law, but in Power.</p>
+                  <p>Theſe are <hi>Principles</hi> upon which I can Swear Allegiance to <hi>Turk</hi> or <hi>Teckeley;</hi> or what is worſe, to a <hi>Rump Parliament,</hi> or Proteſtant <hi>Rabble,</hi> if they get the Power into their <note place="margin">
+                        <hi>Pag.</hi> 50.</note> Hands, and are not likely to loſe it till I might Starve.</p>
+                  <p>Say not this is <hi>Hobbiſm.</hi> Indeed it Entitles our <note place="margin">
+                        <hi>Pag.</hi> 15.</note> Gown to the Favour of all Governments, better than <hi>Hobbiſm</hi> does. Mine <hi>are the only Principles which</hi> 
+                     <note place="margin">
+                        <hi>Pag.</hi> 43.</note> 
+                     <hi>can make Government eaſie both to Prince and People in all Revolutions:</hi> For af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er any Prince had loſt his Crown, either becauſe his Subjects would not aſſiſt him, or reſiſted his Exerciſe of that Abſolute Authority which God gave; no Prince would accept the Government, but the People muſt be always in a State of Confuſion, unleſs Princes were aſſured that the Doctrine of Paſſive Obedience was believed, as part of Gods Law.</p>
+                  <p>Beſides, Mr. <hi>Hobbs</hi> taught the Abſolute Power of all Princes, only as a <hi>Philoſopher,</hi> upon Principles of meer Reaſon; but we, by adding the Authority of Scripture, are ſure of as profitable an Office in the State, as the Keepers of the Sibylline Leaves had among the <hi>Romans,</hi> by always finding a Prophecy to ſerve the Exigencies of State. But we are not only Keepers, but Inter<g ref="char:EOLhyphen"/>preters of the Divine Law, and the full power of declaring the Senſe of it is with our <hi>Convocation,</hi> whether the King Ratifies its Acts or no; as the Legiſlative Power is with the King: yet, as Biſhop <hi>Sanderſon</hi> long ſince ſhewed, the King is pleaſed not to make a Law without the Conſent <note place="margin">
+                        <hi>Vid.</hi> Sand. <hi>de obligatione Conſcientiae.</hi> p 189, 203, 209.</note> of the People; nor the Clergy to publiſh Canons without conſent of the King. But King <hi>James</hi> the Firſt, not having conſented to the Publication of theſe Canons, which ſeem deſign'd to quiet the
+<pb n="14" facs="tcp:50831:8"/> Diſpute about his Title: <hi>James</hi> the Second being gone; and no King here, that we would own; then was a proper time for the Church <note place="margin">
+                        <hi>Vid. The queſtion upon his Title, in the Fundamental Conſtitution of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>e Engliſh Go<g ref="char:EOLhyphen"/>vernment,</hi> Ch. 9. <hi>The Opinion of two Parl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aments,</hi> 25 &amp; 28 H. 8. <hi>and the Common Law, in relation to Foreigners.</hi>
+                     </note> to exer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> its full Authority: eſpecially ſince it derives the Power of all Princes from an Ab<g ref="char:EOLhyphen"/>ſolute Power in the Firſt Father; and therein ſhews, that the late King exerciſed no Power, but what he had of Right, and there is one <note n="*" place="margin">
+                        <hi>Biſhop</hi> Overall's <hi>Convocation book,</hi> Canon 28.</note> Canon againſt Invaſion by any <hi>Bordering Prince,</hi> which we thought a direct Parallel to to the preſent Caſe.</p>
+                  <p>How much ſoever that Convocation laboured to ingratiate themſelves with the then Poſſeſſor of the Crown, they took care to have the Favour of all others, who ſhould once come to be Settled; and always to be of the ſtrongeſt Side.</p>
+                  <p>But whereas Mr. <hi>Hobbs</hi> makes Power, and nothing elſe, to give Right to Dominion, we who are Gods <note place="margin">
+                        <hi>Pag.</hi> 15.</note> Ambaſſadors, take care to have a ſhare ſecured to God, even in Authorizing thoſe Revolutions which are brought about by the Sins of Men. <hi>Government, we ſay, is founded in Right;</hi> I God is the Natural Lord of <note place="margin">
+                        <hi>Pag.</hi> 15.</note> the World, and whoever has the Power, has a <hi>cer<g ref="char:EOLhyphen"/>tain Sign to us, that God placed him in it;</hi> however the <hi>Right</hi> to the Crown is ſo Sacred, that God himſelf cannot alter it, with<g ref="char:EOLhyphen"/>out a miraculous Interpoſition: For that Providence which <hi>removes and ſets up Kings,</hi> does not; tho God <note place="margin">
+                        <hi>Pag.</hi> 26. <hi>Pag.</hi> 14.</note> gives the Man in Poſſeſſion <hi>the true and rightful Authority of a King,</hi> and makes <hi>him true and right<g ref="char:EOLhyphen"/>ful King.</hi> And indeed, notwithſtanding Gods ſetting up a King, and making him Rightful, as far as his <hi>Authority</hi> can, the meaſures of Obedience are Doubtful, <hi>there are diffe<g ref="char:EOLhyphen"/>rent degrees of Settlement and Submiſſion,</hi> and the <hi>Con<g ref="char:EOLhyphen"/>vocation</hi> 
+                     <note place="margin">
+                        <hi>Pag.</hi> 17.</note> 
+                     <hi>Book</hi> leaves it a very great queſtion, Whe<g ref="char:EOLhyphen"/>ther Allegiance can be due to an <hi>Uſurper,</hi> while the right Heir lives.</p>
+                  <p>I ſhould not tell any but Friends, the Art I have uſed about the Story of <hi>Jaddus</hi> the High Prieſt, whoſe Scruple againſt taking an Oath to <hi>Alexander,</hi> during <hi>Darius</hi> his Life, is the Foun<g ref="char:EOLhyphen"/>dation
+<pb n="15" facs="tcp:50831:8"/> of a Canon, wherein <hi>the Church</hi> declares, <hi>If any Man affirm, that</hi> Juddus, <hi>having Sworn Alle<g ref="char:EOLhyphen"/>giance</hi> 
+                     <note place="margin">
+                        <hi>Canon</hi> 30.</note> 
+                     <hi>to</hi> Darius, <hi>might have lawfully born Arms againſt him; he doth greatly Err.</hi> I know, that if I had taken notice of this part of the <hi>Canon,</hi> it would have ſeem'd a very Foreign Interpretation, to ſay, <hi>The meaning was no more than this, that he having Sworn Allegiance to</hi> 
+                     <note place="margin">
+                        <hi>Pag.</hi> 8.</note> Darius, <hi>could not make a voluntary Dedition of himſelf to</hi> Alexander. If this Art of mine ſhould be publiſh'd in the <hi>Streets</hi> of <hi>Gath,</hi> ſome Barbarous <hi>Philiſtines</hi> would be ready, <hi>with rude Clamours, and un<g ref="char:EOLhyphen"/>chriſtian</hi> 
+                     <note place="margin">
+                        <hi>Vid. Pref.</hi> p. 1.</note> 
+                     <hi>Cenſures,</hi> to ſay, That I uſed the Ca<g ref="char:EOLhyphen"/>nons, as I did <hi>Bracton;</hi> whom with a curious <note place="margin">
+                        <hi>Vid. Caſe of Re<g ref="char:EOLhyphen"/>ſiſtance,</hi> p 196. <hi>Bracton Lex fa<g ref="char:EOLhyphen"/>cit Regem: at<g ref="char:EOLhyphen"/>tribuat ergo Rex Legi, quod Lex attribuit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ei, viz. Dominationem &amp; poteſtatem; non eſt etenim Rex ubi dominatur voluntas, &amp; non Lex.</hi>
+                     </note> piecing together the beginning and end of a Paragraph, I brought over cleaverly to my ſide; after the Rogue had ſaid in the middle, That the King receives his <hi>Dominion and Power from the Law.</hi>
+                  </p>
+                  <p>But not a word more of this: and take a ſhort ſafe Rule with you. Never Reſiſt when you are like to be <hi>Cruſh'd</hi> for it; and not to do your Legal Prince any Service. <hi>Be not righteous over much, why ſhould ye deſtroy your ſelves?</hi> Ye may be preſerved for Good Times: ſhould your <hi>Legal Prince</hi> Land with an Army; then your Oaths of Allegiance may equally Ballance on both ſide, and you may lye ſtill till Providence has declared it ſelf; or take that ſide which has moſt Indications of its Favour.</p>
+               </body>
+            </floatingText>
+            <p>In this laſt Particular I may ſeem to miſrepreſent the Doctor, who may be thought to have determined the Point abſolutely on the ſide of this Government, when the People have not only ſub<g ref="char:EOLhyphen"/>mitted to it, but the late King's <hi>Power is broken,</hi> and there is no pro<g ref="char:EOLhyphen"/>ſpect of his helping his Friends. In ſuch caſe, he ſays, <hi>If it be viſible that the diſpoſſeſſed Prince can never recover his Throne again,</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 18.</note> 
+               <hi>but by making a new Conqueſt of the Nation by Foreigners, who will be our Maſters if they conquer, and no gentle ones neither. We may then look upon the new Prince, as advanced and ſetled by God in his Throne: and therefore ſuch a King as we owe an entire Obedience and Al<g ref="char:EOLhyphen"/>legiance to.</hi>
+            </p>
+            <p n="1">1. But if we obſerve what he ſays, upon the Enquiry by what means the diſpoſſeſſed Prince ſhall recover his Right; it will ap<g ref="char:EOLhyphen"/>pear,
+<pb n="16" facs="tcp:50831:9"/> that he lays the Subject under no higher Obligation to the Prince in Poſſeſſion, than not to aſſiſt the other; but I do not find that he thinks they are bound to defend the Poſſeſſi<g ref="char:EOLhyphen"/>on, though they have ſworn Allegiance, which implies a legal Defence according to their Abilities: ſo that if he ſpeaks out, he will not yield <hi>entire Obedience and Allegiance</hi> to be due: all Men, he ſays, are not bound to <hi>liſt themſelves Soldiers;</hi> and though he allows the <hi>Militia,</hi> and <hi>Poſſe Com.</hi> to be a <hi>legal De<g ref="char:EOLhyphen"/>fence,</hi> he no where ſays, that Men are bound to act <note place="margin">
+                  <hi>Page</hi> 31.</note> in it, againſt their <hi>legal</hi> King, as he ſuppoſes the diſpoſ<g ref="char:EOLhyphen"/>ſeſſed Prince to be: ſo that Men only run the hazard of the Pe<g ref="char:EOLhyphen"/>nalty, if Providence ſhould ſtill keep on the ſide of the Poſſeſſor. Nay, upon his Principles, if it be ſafe, Duty leads us to take part with his <hi>legal King</hi> out of Poſſeſſion. Whether a Com<g ref="char:EOLhyphen"/>miſſion granted by ſuch a King be a <hi>legal</hi> Commiſſion, <note place="margin">
+                  <hi>Page</hi> 71.</note> he makes ſuch a nice point in Law as he is not <hi>Lawyer enough to de<g ref="char:EOLhyphen"/>cide;</hi> but if we go to him as a <hi>Divine,</hi> he will tell us, the <hi>Sovereign Power is inſeparable from his Perſon;</hi> and tho <note place="margin">
+                  <hi>Caſe of Ref.</hi> pag. 20.</note> the Commiſſion be not <hi>legal</hi> in form, it has <hi>the Autho<g ref="char:EOLhyphen"/>rity of Sovereign Power.</hi>
+            </p>
+            <p n="2">2. I do not find that he allows the Prince who is in Poſſeſſion to defend God's Authority againſt the ſuppos'd <hi>legal Right,</hi> and neither <hi>Prince</hi> nor People may defend the Kingdom againſt the <hi>legal</hi> King and foreign Forces.</p>
+            <p n="3">3. If the Doctor thinks the Rights of the <hi>Church,</hi> or of the <hi>Mo<g ref="char:EOLhyphen"/>narchy</hi> injured, in either of theſe Caſes he ſeems to encourage the Subjects to reſiſt <hi>God's Authority. In the late Times of Re<g ref="char:EOLhyphen"/>bellion and Uſurpation,</hi> he ſays, <hi>all the Friends of Monarchy,</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 48.</note> 
+               <hi>and of the Engliſh Government, and of the Liberties of their Country, and of their own Honors and Fortunes, were bound in Intereſt to take all Opportunities to reſtore the late King.</hi> The Church he owns is provided for now. <note place="margin">
+                  <hi>Page</hi> 50.</note>
+            </p>
+            <p>But he ſays <hi>if it be well conſidered, the Defence of Monarchy</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 47.</note> 
+               <hi>and the Rights and Prerogatives thereof, will appear a very material part of the Oath; which may bind Subjects when the Perſon of the King is changed, and may make them think themſelves more obliged to reſtore ſuch a Prince, when they cannot reſtore Monarchy and the ancient Laws and Government of the Nation without him.</hi>
+            </p>
+            <p>God's Authority it ſeems in theſe Reſpects is ſuſpended under God's King or other <hi>Miniſter:</hi> if he but allowed the ſame under Man's, <hi>his legal King,</hi> I fear it would ſet aſide his Doctrine of <hi>Paſ<g ref="char:EOLhyphen"/>ſive
+<pb n="17" facs="tcp:50831:9"/> Obedience,</hi> when the Conſtitution is violated: as (according to his Notion of the Rights of Soveraignty, that is, of the Perſon of the King) it is greatly by the Bill of Rights, nor is it likely to be reſtor'd but with the late King, to whom they had aſcrib'd it.</p>
+            <p n="4">4. The danger from the Foreign Invaſion be may anſwer in the ſame way as he does the danger of the <hi>legal</hi> Prince's loſing <hi>his Right</hi> for ever, if not aſſiſted by his old Subjects; viz. <hi>This may be called a difficulty in Providence, but no difficulty to the Subject, if he pur<g ref="char:EOLhyphen"/>ſue his Duty;</hi> that is, if according to his Rule, he cautiouſly wait upon the Motions, or rather Events, of <hi>Providence.</hi>
+            </p>
+            <p n="5">5. If the Doctor will in ſuch a Caſe yield as entire Obedience to the King of Providence, as he did to the legal King, he has as I ſhall ſhew, learn'd this from Principles directly con<g ref="char:EOLhyphen"/>trary <note place="margin">Vid. infra at large.</note> to the Doctrine of <hi>Paſſive Obedience</hi> and <hi>Non reſi<g ref="char:EOLhyphen"/>ſtance;</hi> the <hi>Profeſſors</hi> of which, as himſelf tells them, <hi>do not think it a ſufficient Confutation of their Doctrine to ſay,</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 34.</note> 
+               <hi>that this puts it into the King's Power to invade the Laws and Liberties, the Lives and Fortunes of hss Subjects at pleaſure.</hi>
+            </p>
+            <p>Perhaps he was not aware that herein he expoſed his own Do<g ref="char:EOLhyphen"/>ctrine as well as his old Friends; for he admits a poſſi<g ref="char:EOLhyphen"/>bility for a Prince in a limited Monarchy <hi>to govern ar<g ref="char:EOLhyphen"/>bitrarily,</hi> 
+               <note place="margin">
+                  <hi>Non-Reſiſt. pag.</hi> 209.</note> 
+               <hi>and to trample upon all Laws;</hi> and yet will al<g ref="char:EOLhyphen"/>low no Remedy but Patience.</p>
+            <p>In the Time of Charles II. when this ſlaviſh Doctrine had prepa<g ref="char:EOLhyphen"/>red Men for Submiſſion to Tyranny and Popery, of which the Diſcovery of the Plot, and Management of that Diſcovery, gave an immediate proſpect; the Doctor's buſineſs was to <note place="margin">Vid. Pref. Li<g ref="char:EOLhyphen"/>berty of Think<g ref="char:EOLhyphen"/>ing cramped.</note> allay Mens Fears, and <hi>cramp</hi> their Endeavours to ſecure the Religion and Laws; upon theſe dazling Aſſurances:</p>
+            <p n="1">1. Though we might be ruin'd, and Violence might <note place="margin">
+                  <hi>Caſe of Reſiſt.</hi> p. 209, 210.</note> overwhelm this Generation; yet the Conſtitution might revive in future Ages, till the breach of it were ſetled by a Law: <hi>The Prince cannot make or repeal a Law without the Conſent of the People:</hi> you may be ſure when the People are made Slaves they will be very loth to part with their Liberty!</p>
+            <p n="2">2. The Prince would offer <hi>conſtant Violence to himſelf:</hi> eſpecially if he were a Papiſt, it would grieve him to the Heart to overthrow the Proteſtant Religion by <hi>Law eſtabliſhed.</hi>
+            </p>
+            <p n="3">3. Subjects are not bound to aſſiſt him in his <hi>Uſurpations:</hi> he muſt work without Tools; the Age is ſo vertuous that none could be found.</p>
+            <p n="4">
+               <pb n="18" facs="tcp:50831:10"/> 4. It would be dangerous for Subjects to ſerve him <hi>contrary to Law;</hi> becauſe, if the Law ſhould have its courſe again, they might be puniſhed.</p>
+            <p n="5">5. If we believe him, all our Hiſtorians ſcandalize King <hi>John</hi> and <hi>Ric.</hi> 2. for, <hi>in this long Succeſſion of Princes in this King<g ref="char:EOLhyphen"/>dom, there has been no Prince that has cast off the Authority</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 212.</note> 
+               <hi>of Laws, and uſurp'd an abſolute and arbitrary Power.</hi> Even King <hi>James</hi> you muſt underſtand exercis'd the Rights of Sove<g ref="char:EOLhyphen"/>reignty when he diſpens'd with the Laws, and might have done it ſafely, had he not violated the Rights of the Church. That the Doctor then impos'd vain Aſſurances, himſelf is now convinc'd, and admits his bare poſſibility to have been reduc'd to act; but ſtill he would have the whole <hi>Difficulty</hi> left upon Providence, and that Men ſhould <hi>ſtand ſtill and ſee the Salvation of the Lord.</hi>
+            </p>
+            <p>Beſides what has already been obſerv'd, theſe Conſequences are obvious from his unretracted Doctrine</p>
+            <p n="1">1. That all <hi>Kings</hi> are abſolute, and have Authority from God to trample upon our Religion, Liberties, and Laws, at their ſoveraign Will and Pleaſure.</p>
+            <p n="2">2. That all who joyn'd in Arms with King <hi>William</hi> before the <hi>Abdication,</hi> reſiſted the <hi>Ordinance of God,</hi> and without Repentance ſhall <hi>receive Damnation.</hi>
+            </p>
+            <p n="3">3. That King <hi>James</hi> has ſtill a <hi>legal Right</hi> to the Crown: and therein, one would think to our Obedience.</p>
+            <p n="4">4. That he may uſe Arms to recover that Right which the Do<g ref="char:EOLhyphen"/>ctor aſcribes to him. But how the Subjects, and this King himſelf, are in this Caſe <hi>cramp'd</hi> by him, has appear'd <note place="margin">
+                  <hi>Pag.</hi> 16.</note> before.</p>
+            <p n="5">5. That they who fought againſt the late King in <hi>Ireland,</hi> fought againſt their <hi>rightful King</hi> before Providence had declared God's Will.</p>
+            <p n="6">6. That the Doctor's Juſtifrcation of himſelf for refuſing the Oath of Allegiance ſo long, and taking it at laſt, amounts to this; that, agreeably to what he had before taught from Preſs and Pul<g ref="char:EOLhyphen"/>pit, he held that Allegiance ought not to be paid to Uſurpers: but having met with Biſhop <hi>Overall's Convocation-Book,</hi> which teaches that Uſurpers are to be obeyed, when ſetled in the Power; his own Reaſon took its riſe from that Authority, to ſatisfie him that Allegiance is due to Uſurpers, tho the others legal Right re<g ref="char:EOLhyphen"/>mains: and upon this Account he has taken the Oath to their Ma<g ref="char:EOLhyphen"/>jeſties. Wherein he retracts his ſuppos'd Error, that Uſurpers are
+<pb n="19" facs="tcp:50831:10" rendition="simple:additions"/> not to be obeyed, but retains a real and pernicious one, That their Majeſties are Uſurpers. His declaring, That he is far from intending to reflect upon the preſent Government, is a <note place="margin">Pag. ult.</note> Proteſtation contrary to the plain Fact. Tho the Inten<g ref="char:EOLhyphen"/>tion makes the Crime, the Law implies the Malice when the Fact cannot be excus'd.</p>
+            <p>The <hi>Doctor</hi> confeſſes there is no proſpect of Securing the <hi>Church of</hi> England, <hi>and the Laws and Liberties of the Nation, by other means,</hi> than by this Government: Yet this <note place="margin">
+                  <hi>Pag.</hi> 50.</note> is ſo far from prevailing with him to renounce King <hi>James</hi> his Right; that notwithſtanding his particular Obligation to the <hi>Mildneſs</hi> and <hi>Gentleneſs</hi> of this Government, and his urging the Obligation of <hi>Gratitude</hi> upon <note place="margin">
+                  <hi>Pref.</hi> p. 1. <hi>Pag.</hi> 39.</note> others, who will not Swear now he does: He pu<g ref="char:EOLhyphen"/>blickly maintains thoſe Principles, upon which it is impoſſible that the late King, while he Lives, ſhould loſe his Right, or their Majeſties be other than <hi>Uſurpers:</hi> and prefers the Vanity of aſſerting, That he never taught but <hi>one Error,</hi> to the Security of our <hi>Religion, Laws</hi> and <note place="margin">
+                  <hi>Pref.</hi> p. 5.</note> 
+               <hi>Liberties.</hi> For which, it is to be preſum'd, his Book will undergo a publick Cenſure: And the Univerſity of <hi>Oxford,</hi> which condemn'd your Book to the Fire, out of Loyalty, beyond Law; would make a due Atonement, if they offer'd <note place="margin">Caſe of Reſiſt. and Caſe of Alleg.</note> up the <hi>Doctor's</hi> Political Treatiſes to its injured <hi>Manes.</hi>
+            </p>
+            <p>Sure I am, the Biſhop of <hi>L</hi>—s <hi>Chaplain</hi> had no regard to his <hi>Maſter's</hi> Honour, and <hi>uncovered his Spiritual Father's Nakedneſs,</hi> when he Licenſed ſuch palpable Reflections upon that Action of his, which was much more Commendable, and Glorious, than his Defence before the <hi>High Commiſſion Court.</hi>
+            </p>
+            <p>But beſides thoſe Obſervations, which may occur to any Body, upon the firſt running over Dr. <hi>Sherlock</hi>'s Book; there are others, which may not be thought of, till things of the like Nature are ſorted together, and ſet in a proper Light: As,</p>
+            <p>Firſt, That he would ſet aſide the Conſideration of Law, and Legal Right, as <hi>Uſeleſs, Unfit</hi> and <hi>intricate;</hi> yet ſhews himſelf un<g ref="char:EOLhyphen"/>der an Abſolute Neceſſity of having recourſe to it. 2. Takes upon him to explain it, but verifies his Cenſure of it, by his uncouth way of underſtanding it.</p>
+            <p>Secondly, That in the room of Law, he would ſet up <hi>Scripture</hi> and <hi>Reaſon, without regard to Law,</hi> but abuſes <hi>Scripture,</hi> and per<g ref="char:EOLhyphen"/>verts it, to the bringing God to Authorize Uſurpation upon <hi>Princes,</hi>
+               <pb n="20" facs="tcp:50831:11" rendition="simple:additions"/> and Tyranny or Uſurpation upon Subjects; and makes Reaſon inconſiſtent with its ſelf: but his Inconſiſtencies return ſo often, that I need not make any diſtinct Head of them.</p>
+            <p>Thirdly, That he would maintain his Old Doctrine of <hi>Paſſive Obedience,</hi> as far as he can, with colour, make it conſiſtent with his preſent Actings; yet he effectually renounces it, and ſays, thoſe things, which if he had purſued the thoughts with that Force which Nature has given him, would have brought him to a ſound Judgment in this matter.</p>
+            <p>Fourthly, Would excuſe his holding off from the Government, and his Behaviour, while he did; yet is Self condemn'd.</p>
+            <p>Fifthly, Seems to make his court to the King, out of Poſſeſſion, and to their preſent Majeſties; yet neither did, nor does, by this Book, ſerve either; but quite the contrary.</p>
+            <p>Firſt, He would have the Juſtification of the <hi>right</hi> Waved, as an unfit Diſpute; and beſides, <hi>To judge of</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 1.</note> 
+               <hi>the Legality of the Revolution,</hi> he ſays, <hi>requires ſuch perfect Skill in the Law and Hiſtory, and the Conſtitution</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 2.</note> 
+               <hi>of the Engliſh Government, that few Men are capable of making ſo plain and certain a Judgment of it, as to be a clear and ſafe Rule of Conſcience.</hi>
+            </p>
+            <p>It is to be obſerved, that here the queſtion is not in relation to them who were to conſider of their Duty before the <hi>Revolution;</hi> but what might ſatisfie their Conſciences when it was ſettled; and when it might be look'd on as ſettled. And this very matter he himſelf thinks a plain caſe in our Law; he ſays, <hi>the Law it ſelf, as well as the Principles of Reaſon and Reli<g ref="char:EOLhyphen"/>gion,</hi> 
+               <note place="margin">
+                  <hi>P.</hi> 59. <hi>c.</hi> 60.</note> 
+               <hi>have annexed the Authority of Government to the Poſſeſſion of the Throne:</hi> And has no other colourable means of proving a Settled Poſſeſſion, but by the Law of the Land; for he places it, under God, in the regular Conſent and Submiſſion of the People; and owns, that the Submiſſion has been made by a Legal Repreſentative of the People: That <note place="margin">
+                  <hi>Page</hi> 9. <hi>Page</hi> 51.</note> the Law only tells us, who is King; that he <hi>has no Right,</hi> that is, no Authority, <hi>but by Law:</hi> And that our Repreſentatives in a <hi>Convention,</hi> at leaſt in <note place="margin">
+                  <hi>Page</hi> 54. <hi>Page</hi> 65.</note> 
+               <hi>Parliament,</hi> are the Judges in whoſe Judgement we ſhould acquieſce. And they, 'tis certain, have de<g ref="char:EOLhyphen"/>clared, that their Majeſties are <hi>Lawful</hi> and <hi>Rightful King and Queen.</hi> 
+               <note place="margin">Vid. The Act Settling the Crown. And that which declares the Acts of the Firſt Parliament to be binding Laws.</note>
+            </p>
+            <pb n="21" facs="tcp:50831:11"/>
+            <p> Is not this a plain caſe, without troubling the Subjects with particular Controverſies? But then he confounds this matter, which otherwiſe were plain, when he offers at the Law.</p>
+            <p n="1">1. Tho the Statute 11 <hi>H.</hi> 7. ſhews that Legal Allegiance is due to the King in Poſſeſſion, and that he is the Legal King: he will have it, that the Law does not <hi>deny</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 65.</note> 
+               <hi>the others Legal Right to the Crown.</hi>
+            </p>
+            <p n="2">2. Whereas the Lawyers ſay, and prove from Hiſtory, Records and Law-books, that the Conſtitution of this Monarchy, is, as has been obſerved of the Jewiſh, Hereditary as to a Family, elective as to Perſons. The <hi>Doctor</hi> will have it, that <hi>the Lineal Heir has the Right to the Crown:</hi> and yet that it is Here<g ref="char:EOLhyphen"/>ditary, <note place="margin">
+                  <hi>Page</hi> 52.</note> to any Perſon who gets a ſettled Poſſeſſion; tho he be not of that Royal Family, which has, through Providence, either by Affinity, or Conſanguinity, maintained the Poſſeſſion for near 1000 years, as may eaſily be proved; and I hope may continue the Poſſeſſion, till time ſhall be no more.</p>
+            <p n="3">3. Whereas the Lawyers ſay, that our Monarchy is limited, and founded in Contract; that a King, who Acts without regard to the Fundamental Contract, is not a Legal King; and that the Natural Allegiance due to our Country, ſuperſedes the Obli<g ref="char:EOLhyphen"/>gation of what otherwiſe was due to him: He will have the Law to allow a Legal Right to the Crown, unto him who is out of Poſſeſſion, and loſt it by the Juſt Judgment of God, for exer<g ref="char:EOLhyphen"/>ciſing an Authority which the Law condemns and rejects: And tho the Law in a limited Mo<g ref="char:EOLhyphen"/>narchy <note place="margin">
+                  <hi>Page</hi> 30.</note> 
+               <hi>ſets Bounds to Sovereign Power;</hi> yet that Scri<g ref="char:EOLhyphen"/>pture and Reaſon require our not Reſiſting a King, <note place="margin">
+                  <hi>Page</hi> 30.</note> 
+               <hi>when he Subverts the Laws and Liberties, and Legal Eſta<g ref="char:EOLhyphen"/>bliſhed Religion of the Kingdom, by Illegal Methods;</hi> as if he had <hi>Gods Authority</hi> for all this: nor can they find a <hi>Contra<g ref="char:EOLhyphen"/>diction in the thing, that God ſhould give a Prince Autho<g ref="char:EOLhyphen"/>rity</hi> 
+               <note place="margin">
+                  <hi>Caſe of Re<g ref="char:EOLhyphen"/>ſiſtance,</hi> p 119.</note> 
+               <hi>to govern</hi> according to Law; and yet Subjects are at Liberty to reſiſt, when the Bounds which God had ſet him are willfully tranſgreſſed.</p>
+            <p>And if a Lawyer may be allowed to Reaſon upon this Point, he would ſay, if he may not be reſiſted, becauſe he has <hi>Gods Authority:</hi> Becauſe he has <hi>Gods Authority,</hi> he ought to be obeyed in every thing, not contrary to Gods Law. For it is certain the Sovereign Power, which is <hi>Gods Authority,</hi> is to be obeyed actively in all things within that Limitation. A Perſon may act beyond
+<pb n="22" facs="tcp:50831:12"/> it, but the Power never can: which ſhews a neceſſary Diſtinction between Perſons in Power, and the Power which they have, or exerciſe, tho the Doctor allows of none; and helps himſelf, by confounding and joyning what God ſeparates; which is as bad as ſeparating what he has joyned.</p>
+            <p>Thirdly, That he would ſet up Scripture and Reaſon, without regard to Right or Law, appears from the very Scheme of Govern<g ref="char:EOLhyphen"/>ment, which he lays down in his firſt Section: The deſign of this Book, is particularly to prove it to be without regard to the Right of the Government; leaving the queſtion of Law in great meaſure to his Caſe of Reſiſtance, the chief deſign of which, was to ſhew that the Scripture requires Obedience to the Prince that has Right by Law, without regard to any other Law, but that which ſettles his Title: This was a giving up the Cauſe, as to what he would enforce from the <hi>13th.</hi> to the <hi>Romans;</hi> for tho he had then aſſerted, that that Chapter and the whole Scripture, where ever it ſpeaks of <hi>Higher Powers,</hi> always means the <hi>Autho<g ref="char:EOLhyphen"/>rity of a Perſon, not of a Law:</hi> To ſerve his turn then, he would allow no Man to be <hi>Gods Ordinance</hi> in an <note place="margin">
+                  <hi>Caſe of Re<g ref="char:EOLhyphen"/>ſiſtance,</hi> p. 113.</note> 
+               <hi>Hereditary Monarchy,</hi> but the next Heir in the Line: in Conſequence of which, the Scripture ſpeaks of no <hi>Higher Power,</hi> but what is Legal. This point he is forced to give up, as to the next Heir; and yet finds another Heir, accor<g ref="char:EOLhyphen"/>ding to his fancied Law of the Monarchy; but in the main, keeps to his Fundamental Error, that the Scripture means, Perſons and not Laws, where it ſpeaks of <hi>Higher Powers:</hi> Nay, and muſt be of Perſons alone, without regard to Laws; for otherwiſe the Scripture affords no proof, that God ever ſets up Perſons without regard to Laws, and makes them his <hi>Ordinance.</hi>
+            </p>
+            <p>Now the Doctor, all along ſuppoſing, that their Majeſties did not come to the Crown, according to the Law of the Govern<g ref="char:EOLhyphen"/>ment, finds it convenient, that the Scripture ſhould be held to have no <hi>regard</hi> to the Law, which ſhews who have right to go<g ref="char:EOLhyphen"/>vern: and yet even in that reſpect it is evident, that he muſt own the <hi>13th.</hi> to the <hi>Romans;</hi> not to ſpeak of Perſons, barely as in<g ref="char:EOLhyphen"/>veſted with Natural Power, that is Force; but Moral, that is, Legal Power: for he will not yield that the People, who have the moſt Natural Power, have in any caſe Right to Govern. It muſt therefore be meant, of Perſons in Authority; and none can be in Authority, but they that have Right to Govern: Which ſhews, that if the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, may be applied indifferently, either
+<pb n="23" facs="tcp:50831:12"/> to <hi>Natural</hi> or <hi>Moral Power;</hi> It muſt here be con<g ref="char:EOLhyphen"/>fin'd to <hi>Moral,</hi> notwithſtanding all the <hi>Doctor's</hi> labour <note place="margin">
+                  <hi>Page</hi> 19.</note> to the contrary.</p>
+            <p>Having Diſpatched this Queſtion, in relation to the Right to Govern; it will be much more eaſie to ſilence all pretences, to inforce from that place of Scripture, a Right to Govern, by Gods Authority, without regard to Law. For it is evident, that he, who of himſelf aſſumes a Power, which no Law gave; is not <hi>Gods Ordinance,</hi> or any <hi>Power,</hi> in that reſpect: And when the Conſti<g ref="char:EOLhyphen"/>tution of a Government, had placed the <hi>Power</hi> in <hi>King, Lords</hi> and <hi>Commons;</hi> that is <hi>Gods Ordinance:</hi> Whoever Invades that Share or Manner, in which it is enjoy'd by either; acts not only <hi>without,</hi> but <hi>againſt Gods Authority.</hi> And it <note place="margin">Modus ha<g ref="char:EOLhyphen"/>bendi pote<g ref="char:EOLhyphen"/>ſtatem. Vid. Grot.</note> is evident, that where the King has not the <hi>Power</hi> ſo Abſolutely in him, as to make Laws of his ſole Autho<g ref="char:EOLhyphen"/>rity, he is not the <hi>Higher Power,</hi> for whoſe Security our <hi>Doctor</hi> broach'd his <hi>Non-Reſiſting Doctrine.</hi>
+            </p>
+            <p>The Doctor may, by ſome, be thought to be for halving that Doctrine, and to have changed his half; which before was to ſerve Tyranny, now for that which he counts an Uſur<g ref="char:EOLhyphen"/>pation upon the Tyrant. But indeed he now joyns both halves together; for without that he ſees it is impoſſible to make any thing for his turn, of the <hi>13th</hi> to the <hi>Romans:</hi> for the one half muſt needs be excepted by the ſame reaſon that the other is.</p>
+            <p>If a Lay-man may attempt to explain the <hi>13th</hi> to the <hi>Romans,</hi> theſe particulars may farther be obſerved upon it, in relation both to the <hi>Right of Government,</hi> and the <hi>Law</hi> of the <hi>Government.</hi>
+            </p>
+            <p n="1">1. That the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which the Apoſtle uſes where he requires Obedience, implies a Regular Subjection; and deter<g ref="char:EOLhyphen"/>mines the meaning of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, if otherwiſe doubtful, to regular, that is, Legal Authority.</p>
+            <p n="2">2. The Doctor himſelf, owns, in effect, that Obedience is not due to the Perſon, but to his Authority: or at leaſt, not to the Perſon alone, but for the ſake of his Legal Power or Authority: that is, to, or for the Law, and not the Perſon alone: When the Doctor elſewhere ſays, it is to the <hi>Perſon, and not the Law.</hi>
+            </p>
+            <p>But whether he does not admit the Law, to deſerve a Place, let the World judge.</p>
+            <pb n="24" facs="tcp:50831:13"/>
+            <p> 
+               <hi>To what particular Prince,</hi> ſays he, <hi>we muſt pay our Alle<g ref="char:EOLhyphen"/>giance</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 54.</note> 
+               <hi>the Law of God does not tell us, but this we muſt learn from the Laws of the Land.</hi>
+            </p>
+            <p>Nay, tho ſometimes he tells us the King's moſt <hi>ille<g ref="char:EOLhyphen"/>gal Acts have the Authority of Soveraign Power,</hi> at others he <note place="margin">
+                  <hi>Caſe of Reſ.</hi> pag. 191.</note> owns that his perſonal Commands have not; for if they had, they would juſtifie his Inſtruments who ſhould act by ſuch Au<g ref="char:EOLhyphen"/>thority againſt the Law: in which Caſe he confeſſes his Command will not excuſe them: and tho he contends that all Kings ſetled in Poſſeſſion have <hi>God's Authority,</hi> which in the nature of the thing cannot be limited by humane Laws, yet he ſays, when driven to it, that <hi>the King has no Right but by Law, and</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 65.</note> 
+               <hi>the Law may determine how far his Right ſhall extend.</hi>
+            </p>
+            <p n="3">3. It is to be conſidered, that tho it be for the Do<g ref="char:EOLhyphen"/>ctor's purpoſe to have it believ'd, that the Powers in <note place="margin">
+                  <hi>Caſe of All.</hi> pag. 30. <hi>Caſe of Reſ.</hi> pag. 24.</note> being when the Apoſtle required Subjection, were not legal Powers; it is plain that they were, both as to the Right and Exerciſe of that Government, to which Sub<g ref="char:EOLhyphen"/>jection was required. Our Saviour, as himſelf ſays elſewhere, left <hi>Soveraign Princes in the quiet Poſſeſſion of what he found them poſſeſſed of.</hi> 
+               <note place="margin">
+                  <hi>Caſe of Reſ.</hi> pag. 55.</note>
+            </p>
+            <p n="4">4. When our <hi>Saviour</hi> and his <hi>Apostles</hi> gave Rules for Subjection, there was no Competition between <hi>Princes</hi> or <hi>Powers</hi> about Right, or Titles to the Government; wherefore, had it been uſurp'd, or never ſo arbitrary and tyrannical, there was no choice but that, or Tyranny; Submiſſion, or Confuſion.</p>
+            <p n="5">5. Whereas the Doctor, in Confirmation of his Senſe of <hi>Rom.</hi> xiii. ſays, that the <hi>Romans themſelves were great</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 21.</note> 
+               <hi>Uſurpers,</hi>
+            </p>
+            <p n="1">1. This is not to the purpoſe in that place, the Epiſtle being to the <hi>Romans</hi> themſelves.</p>
+            <p n="2">2. If he means it in relation to the Jewiſh Chriſtians, the Do<g ref="char:EOLhyphen"/>ctor will hardly prove the <hi>Roman</hi> Power over them an Uſurpation: for this I would refer him to the Conſideration of <hi>Herod</hi>'s Will, and how far he ſubmitted his and his Childrens Rights to the pleaſure of <hi>Auguſtus Caeſar.</hi> 
+               <note place="margin">Vid. Joſeph.</note>
+            </p>
+            <p>The Doctor's next Attempt upon Scripture, to my thinking is very bold; nor do I well know by what term I ought to call it, but ſhall fairly repreſent it.</p>
+            <p>Which is this, That <hi>the Scripture never ſpeaks of the bare permiſſion of any Events, but makes God the Author of all the</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 12.</note>
+               <pb n="25" facs="tcp:50831:13"/> 
+               <hi>good or evil which happens either to private Perſons or publick Societies,</hi> (he foreſaw that the Objection to this is obvious,) <hi>have not then Pyrates and Robbers as good a Title to my Purſe as an Uſurper has to the Crown?</hi> This he anſwers by an Evaſion, <hi>The Diſpute,</hi> ſays he, <hi>is not</hi> 
+               <note place="margin">
+                  <hi>p.</hi> 34.</note> 
+               <hi>about humane and legal Right in either Caſe, but about Authority.</hi>
+            </p>
+            <p>But it is plain, that it is between <hi>Humane and Divine Right;</hi> and tho I had humane Right on my ſide, the Robber has the Divine, in the Doctor's Senſe, Providence having given it him: by conſe<g ref="char:EOLhyphen"/>quence, tho the right Owner may endeavour to force it from him, as he who is diſpoſſeſs'd of his Throne may, if we believe the Do<g ref="char:EOLhyphen"/>ctor, fight againſt the Poſſeſſor; yet againſt all other Men but the Owner, the Robber would have a Right. If the Heirs or Execu<g ref="char:EOLhyphen"/>tors of the Party have a Right, by the ſame reaſon would Heirs or Aſſigns of a diſpoſſeſſed Prince: and if it be lawful for a Prince who came to Poſſeſſion by undue means, to defend his Poſſeſſion after it had been ſetled; upon the Doctor's way of arguing, ſo would it be lawful for the Robber. But the Doctor, in not having determined that a Prince may defend a wrongful Poſſeſſion, leaves that matter as doubtful for the Robber. Thus he makes Robberies and Uſurpations, which indeed are but greater Robberies, to be authorized by God Almighty.</p>
+            <p>But ſays the Doctor, <hi>The Scripture is expreſs, That King<g ref="char:EOLhyphen"/>doms</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 34.</note> 
+               <hi>are diſpoſed by God;</hi> ſome no doubt have been by an evident Manifeſtation of God's Will; and then I hope he will not ſay it is an Uſurpation, no more than it was Robbery in the <hi>Iſ<g ref="char:EOLhyphen"/>raelites</hi> to <hi>ſpoil the Egyptians.</hi> But if the Doctor will ſay, that <hi>God</hi> directly gives it to an Uſurper, 1. it argues that <hi>God</hi>'s Gift cannot give a <hi>Right;</hi> for if he did, it would ceaſe to be an <hi>Uſurpation.</hi> 2. He who came by undue means to a Throne, may have ſo acted as to obtain God's Favour, and God may give him an Eſtabliſh<g ref="char:EOLhyphen"/>ment, tho he did not give the Throne; and therefore God did not authorize the Uſurpation, which was the Man's Sin. 3. However, publick Good may require his Eſtabliſhment. 4. If the Scripture be not ſo taken as to diſcharge God from authorizing the Sin in the Uſurper; by the ſame Rule we ſhall be bound to believe, that he authorizes private Robberies, and the diſpoſſeſſing Men by Wrong; for the Scripture ſays, <hi>God hath made of one blood all Na<g ref="char:EOLhyphen"/>tions of men for to dwell on all the face of the Earth, and</hi> 
+               <note place="margin">
+                  <hi>Acts</hi> 17. <hi>v.</hi> 26.</note> 
+               <hi>hath determined the times before appointed, and the bounds of their Habitations:</hi> according to which, in ſuch a literal Senſe as the Doctor puts upon Texts relating to the Changes of Govern<g ref="char:EOLhyphen"/>ments,
+<pb n="26" facs="tcp:50831:14"/> God has appointed thoſe very bounds which an ill man gets by Violence, or an unjuſt Neighbour by a falſe <hi>Land mark.</hi>
+            </p>
+            <p>Upon the whole, tho God permits the Sins of Men, his Autho<g ref="char:EOLhyphen"/>rity gives no Sanction to them, but it does to humane Laws; and when Neceſſity, for the good of Communities, ſets aſide particular Proviſions made for that end, God authorizes that Act declaratory of the <hi>Supream Law.</hi> The general Rule of Scripture, if a <hi>Lay<g ref="char:EOLhyphen"/>man</hi> may ſay ſo, in relation to the Duty both of Prince and Peo<g ref="char:EOLhyphen"/>ple, is, to <hi>ſeek Peace and enſue it.</hi> Whoever therefore, after a Go<g ref="char:EOLhyphen"/>vernment is once ſetled by the Submiſſion of a People, and the main ends of Government are preſerved; be it the ejected Prince or other, ſhall attempt to break the Peace, and deprive Communities of thoſe Comforts which God in great mercy gives them; he ſins againſt God's Eſtabliſhment: for, as the Doctor ſays up<g ref="char:EOLhyphen"/>on another Account, the <hi>Preſervation of humane Society will</hi> 
+               <note place="margin">
+                  <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g.</hi> 40.</note> 
+               <hi>juſtifie what it makes neceſſary.</hi>
+            </p>
+            <p>Dean <hi>Hicks</hi> I muſt needs think is in this particular more Ortho<g ref="char:EOLhyphen"/>dox than our Doctor; but the Dean had learnt his Or<g ref="char:EOLhyphen"/>thodoxy from the Lawyer <hi>Forteſcue,</hi> who has theſe memo<g ref="char:EOLhyphen"/>rable Words. <note place="margin">
+                  <hi>Jovian,</hi> p. 253.</note>
+            </p>
+            <p>
+               <hi>All Laws publiſhed by Men have alſo their Authority from God, for as the Apoſtle ſaith, all Power is from the Lord God; wherefore, the Laws that are made by Men which thereunto have receiv'd Power from the Lord, are alſo ordained of God.</hi> This the Dean receives, and im<g ref="char:EOLhyphen"/>proves his way, having ſuppos'd that he had ſhewn by our Law, that the King is irreſiſtible in all Caſes.</p>
+            <p>
+               <hi>If,</hi> ſays he, <hi>all Laws of Men be the Laws and Ordinances of God, then I ſuppoſe the Common and Statute Laws of every Empire, which ab<g ref="char:EOLhyphen"/>ſolutely forbid the Subject to reſiſt the Sovereign, are ſo too.</hi>
+            </p>
+            <p>If our Doctor had attended to this Paſſage, in the moſt plauſible Book that ever was written, for Paſſive Obedience to abſolute or <hi>Imperial Power,</hi> ſuperiour to the <hi>Political;</hi> the Doctor might have avoided many Inconveniences which he has run himſelf into.</p>
+            <p n="1">1. He need not have contradicted himſelf, ſometimes making every King to have Authority from God, without regard to <hi>Right</hi> or <hi>Law;</hi> at other times, that the Law muſt teach who is King, and what his Authority.</p>
+            <p n="2">2. If he had ſuppos'd God to have given the Sanction to Laws, but not to Uſurpations, he would not have <hi>charged God fooliſhly.</hi>
+            </p>
+            <p n="3">3. He would never have put God Almighty to the Neceſſity of a Miracle, to juſtifie the Inſtruments in freeing Oppreſſed Nations,
+<pb n="27" facs="tcp:50831:14"/> if he would have allowed Men, in many Caſes, to have been the firſt Agents, or at leaſt to have cooperated with God, without Sin: as if ſo good an end as the Preſervation of Religion, and the fun<g ref="char:EOLhyphen"/>damental Laws of Societies, were never to be accompliſhed by good means! But in making God always the firſt Agent, and to act alone, in the diſpoſition of Kingdoms, he makes him too much the Author of thoſe Sins, which Men may commit in ſome Chan<g ref="char:EOLhyphen"/>ges. And yet this ſerves the Doctor better than the yielding, that God has in any Caſe lodg'd any Power in <hi>Communities,</hi> and that they may diſpoſe of it as they ſhall think fit; for if they could, he owns it would imply a Truſt, and would render Kings account<g ref="char:EOLhyphen"/>able to them for notorious Violations. Indeed, when he is not aware of this Conſequence, he grants, that <hi>God ſometimes</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 13.</note> 
+               <hi>leaves a free People to chuſe their own King.</hi> And therefore, unleſs there can be no limited Monarchy, but God has aſſertain'd the Rights of all Kings as ſuch; by his own Confeſſion, elective Kings are accountable: but that would juſtifie the Revolution, if this Monarchy ſhould prove in any Senſe elective; and be ſure the Doctor will keep off from that, till the King of <hi>France</hi> is leſs for<g ref="char:EOLhyphen"/>midable.</p>
+            <p n="4">4. He might have ſpar'd his Objections, or rather <note place="margin">
+                  <hi>Pag.</hi> 24.</note> Sir <hi>Robert Filmer</hi>'s, againſt the force of the Choice <hi>and Conſent of the People,</hi> to make a Prince, or indeed any Laws; for if God gives the Sanction and Authority to ſuch Conſent as is agreeable to his Word, and that natural Law which he has given all Mankind, with regard to the Conſtitutions of reſpective Go<g ref="char:EOLhyphen"/>vernments; then there is no force in the Objection that the Majo<g ref="char:EOLhyphen"/>rity cannot conclude the reſt, nor our Anceſtors by their Conſent bind us. And obſerve how little the Doctor attended to the Con<g ref="char:EOLhyphen"/>ſequences of this Objection.</p>
+            <p n="1">1. If the Majority cannot conclude the reſt, how can the Sub<g ref="char:EOLhyphen"/>miſſion of the People make a Settlement? and yet he owns that it does.</p>
+            <p n="2">2. If our Anceſtors could not bind us, how comes that Agree<g ref="char:EOLhyphen"/>ment which he ſuppoſes to have made this an <hi>Hereditary Monarchy,</hi> to leave a <hi>Legal Right</hi> to one, againſt the preſent Intereſt and con<g ref="char:EOLhyphen"/>ſent of the Nation?</p>
+            <p n="3">3. How can our Submiſſion to their preſent Majeſties bind our Succeſſors?</p>
+            <p>And would not his Notions effectually unhinge all Govern<g ref="char:EOLhyphen"/>ments?</p>
+            <pb n="28" facs="tcp:50831:15"/>
+            <p> Thirdly, But if the Doctor had purſued, as he ought, thoſe true Principles, which he ſometimes falls upon unawares; he would have given the World more Satisfaction of his <hi>Sincerity,</hi> and would not, by <hi>Halting between two Opinions,</hi> leave it as a Doubt, what is his real Judgment.</p>
+            <p>I hope he will not ſay I miſrepreſent him, when I draw from his own Conceſſions, ſuch a Scheme of Government, contrary to his Doctrine of <hi>Paſſive Obedience,</hi> as will, with great clearneſs, prove their Majeſties to be Lawful and Rightful King and Queen.</p>
+            <p>Hitherto you have been entertained with a Melancholly Scene of a poor injured Prince; who for the Exerciſe of a <hi>Power</hi> which God had given him, was, according to the Scope of the Doctor's Book, and of thoſe Canons which converted him to this Govern<g ref="char:EOLhyphen"/>ment, thruſt from his Throne by a Fortunate <hi>Uſurper,</hi> and Re<g ref="char:EOLhyphen"/>bellious Subjects; and Providence was put to great <hi>Difficulties</hi> to aſſert his Right.</p>
+            <p>But now another Scene opens, that King for whom the Doctor beſpoke your Service (and for the ſake of whoſe Right he would have it thought a Duty in all, like himſelf, not to be <hi>haſty and forward in their Compliances</hi> with Gods Pro<g ref="char:EOLhyphen"/>vidence, <note place="margin">
+                  <hi>Page</hi> 16.</note> upon a ſingle Deciſion; leaſt they ſhould h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lp to give Advantages againſt the Right) is fled out of another Kingdom; and has but one more to try his Fate in; ſo that there is two to one on the ſide of the Poſſeſſor. Now there<g ref="char:EOLhyphen"/>fore he who had the Right, has juſtly <hi>Forfeited.</hi> And the Supream Law, the publick Good, warranted a Revolt from him; and meeting our <hi>Deliverer</hi> as a Bleſſing from Heaven.</p>
+            <p>All this may be little expected from the Doctor, but tho it may <hi>ſtartle</hi> and ſurprize you, <hi>I ſhall prove it,</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 3.</note> and ſhew from him.</p>
+            <p n="1">1. That our Monarchy is limited, and the King has no Authority but what the Law allows him, <note place="margin">
+                  <hi>Page</hi> 30. <hi>Page</hi> 65.</note> which ſets Bounds to <hi>Sovereign Power:</hi> As I before obſerved, he owns that <hi>the King has no Right, but by Law, and the Law may determine how far his Right ſhall extend.</hi> And thus Man's Law limits <hi>Gods Authority.</hi> This is more than he would own expreſly, that I can find in the time of <hi>C.</hi> 2. but even then he admitted, that he <hi>who Governs</hi> by <note place="margin">
+                  <hi>Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of Re<g ref="char:EOLhyphen"/>ſiſt.</hi> p. 197.</note> 
+               <hi>Arbitrary Will, is a Tyrant, and no King:</hi> Yet he then left it to his pleaſure, whether he, whom he calls the
+<pb n="29" facs="tcp:50831:15"/> 
+               <hi>Law maker,</hi> would <hi>Govern by Laws</hi> or <hi>Sovereign Will.</hi> 
+               <note place="margin">
+                  <hi>Caſe of Re<g ref="char:EOLhyphen"/>ſiſt.</hi> p. 196.</note> This was ſuitable to the uſe he then had for the <hi>13th.</hi> to the <hi>Romans;</hi> but now it ſerves only to countenance, what he will have, an Uſurpation. And yet it will be a queſtion, how he can be an Uſurper, who, as the Doctor confeſſes, as he is King, receives his Right from Law, having no Right, but by Law. And what he ſays, in ano<g ref="char:EOLhyphen"/>ther <note place="margin">
+                  <hi>Page</hi> 42.</note> reſpect, <hi>as far as he quits his Government, he quits</hi> the Allegiance of the Subjects, might be eaſily improved here.</p>
+            <p n="2">2. That <hi>if Kings receive their Authority from Men, and Humane Laws; their Power is a truſt, of which they</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 36.</note> 
+               <hi>muſt give an account to thoſe who intruſted them,</hi> &amp;c. tho <hi>no expreſs Proviſion</hi> were made in <hi>the Law, to call them to ac<g ref="char:EOLhyphen"/>count.</hi>
+            </p>
+            <p n="3">3. That King <hi>James notoriouſly</hi> violated the Sub<g ref="char:EOLhyphen"/>jects Rights, and broke <hi>the Conſtitution upon which him<g ref="char:EOLhyphen"/>ſelf</hi> 
+               <note place="margin">
+                  <hi>page</hi> 27.</note> 
+               <hi>ſtood, and ſtruck at the Deareſt things, their Religion eſtabliſhed by Law, and their Properties;</hi> is almoſt as plainly ſigni<g ref="char:EOLhyphen"/>fied by him, as if he had named the Man.</p>
+            <p n="4">4. He is expreſs in relation <hi>to the late Revolution,</hi> that a <hi>Prince Forfeits the Affections and Legal Defence of</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 30.</note> 
+               <hi>his Subjects, by the Exerciſe of an Illegal and Arbitrary Power.</hi> Where 1. he owns a Forfeiture: And 2. of what is eſſen<g ref="char:EOLhyphen"/>tial to the Sovereignty, that, Love or Filial Duty to Princes, which our Clergy tell us, is required under the <hi>Honour</hi> due to Pa<g ref="char:EOLhyphen"/>rents. 3. A Legal Defence is certainly due by Law, to a King, as ſuch; and therefore when that Defence is no more a duty, Alle<g ref="char:EOLhyphen"/>giance ceaſes; eſpecially the Subjects having Sworn to this: And if the Oaths, taken to the Prince are diſcharged, as to any part, by a Forfeiture; it will be difficult to ſhew, why that Forfeiture ought not to extend to the whole.</p>
+            <p n="5">5. He as good as yields, that the late King <hi>Abſolved</hi> the Subjects from their Allegiance to him. Speaking <note place="margin">
+                  <hi>Page</hi> 48.</note> of the late King, and his People; and their chief Intereſts, in compariſon with former times, which he would make greatly to differ from the preſent.</p>
+            <p>
+               <hi>The bold ſteps,</hi> ſays he, <hi>and extraordinary Methods he had taken, gave them great Apprehenſions, that all theſe were in danger, even the Rights and Prerogatives</hi> of the Crown it ſelf (the Preſervation of which, was a main end of the Oath of Allegiance) <hi>by his Sub<g ref="char:EOLhyphen"/>miſſion to the See of</hi> Rome, <hi>and rejecting the Oath of Supremacy; and</hi>
+               <pb n="30" facs="tcp:50831:16"/> 
+               <hi>as far as he could, abſolving his Subjects from it.</hi> Add to this, what he ſaid elſewhere, <hi>The Defence of Monarchy, and the Rights and Prerogatives of the Crown, will appear a very</hi> 
+               <note place="margin">
+                  <hi>page</hi> 51. <hi>page</hi> 47.</note> 
+               <hi>material part of the Oath of Allegiance.</hi> It muſt be con<g ref="char:EOLhyphen"/>ſidered, that all which he makes requiſite, for trans<g ref="char:EOLhyphen"/>ferring the <hi>Legal Right of Government,</hi> to an Uſurper who obtains a ſettled Poſſeſſion, is the Submiſſion, or Conſent, of a <hi>Legal Prince.</hi> Since, therefore, the <hi>Prince,</hi> in this, conſented, as far as he could to diveſt himſelf of his <hi>Supremacy;</hi> which, I hope, he will ſay, is eſſen<g ref="char:EOLhyphen"/>tial to his Sovereignty; it may ſeem, that his Sovereignty may as well be transferred to the People, as to any <hi>Prince,</hi> being the Doctor, and the Convocation, have no Scruples upon the <hi>Degene<g ref="char:EOLhyphen"/>racy</hi> of the Form of Government: And therefore our Parliament juſtly affirmed the <hi>Power</hi> to have been <note place="margin">The Act a<g ref="char:EOLhyphen"/>bout the Law proceedings.</note> devolved upon the People, when they ordered In<g ref="char:EOLhyphen"/>dictments for Offences, during the Vacancy, to be laid <hi>Contra pacem Regni.</hi>
+            </p>
+            <p>He grants farther, That <hi>the Safety of the People, is the Supream Law:</hi> That <hi>it will be hard to convince any conſidering Men, that that which is neceſſary to preſerve a Nation, is</hi> 
+               <note place="margin">
+                  <hi>page</hi> 41.</note> 
+               <hi>a Sin.</hi> This indeed he applies to Submitting to an Uſurper. But the reaſon of it goes farther: He ad<g ref="char:EOLhyphen"/>mits, <hi>That we have no Direction in Scripture, at all, about</hi> 
+               <note place="margin">
+                  <hi>page</hi> 22.</note> 
+               <hi>making or unmaking Kings.</hi> To which I may apply, what he brings to another purpoſe: That <hi>when we</hi> 
+               <note place="margin">
+                  <hi>page</hi> 45.</note> 
+               <hi>are to learn our Duty, not from any expreſs Law of God, or Nature; but from the Reaſon and Nature of things: It is a ſufficient Argument, that it is not my Duty which will expoſe me to great Suffer<g ref="char:EOLhyphen"/>ings, without ſerving any good end; nay, which expoſes me to Suffer<g ref="char:EOLhyphen"/>ings, for contradicting the natural End and Intention of my Duty.</hi> And ſoon after he admits, That <hi>Men were not made for Princes, to be their Slaves and Properties; but Princes were made for the Govern<g ref="char:EOLhyphen"/>ment of Men. That neceſſity of Preſervation may abſolve Subjects from their Oaths to their Prince.</hi> And that <note place="margin">
+                  <hi>page</hi> 42.</note> 
+               <hi>the Preſervation of Humane Societies, is the ultimate end of Government, and will juſtifie what it makes neceſſary.</hi> 
+               <note place="margin">
+                  <hi>page</hi> 40, 41. <hi>page</hi> 33.</note> Farther yet, and more particular, <hi>I do not think,</hi> ſays he, <hi>the Right and Intereſt of any Prince, ſo conſiderable as the Safety and Preſervation of a Nation, and the Lives and Fortunes of all his Subjects.</hi>
+            </p>
+            <pb n="31" facs="tcp:50831:16"/>
+            <p> I ſhall not enquire, how far this agrees with his Aſſertion, That <hi>if a Limited Monarch were not as irre<g ref="char:EOLhyphen"/>ſiſtible</hi> 
+               <note place="margin">
+                  <hi>Caſe of Re<g ref="char:EOLhyphen"/>ſiſt.</hi> p. 208.</note> 
+               <hi>as the moſt Abſolute; the moſt Abſolute and Deſpotick Government, is more for the Publick Good, than a Limited Monarchy.</hi> But certain it is, had the Doctor taken as much time, to conſider the direct Conſequences of theſe Noble Truths, for juſtifying the Shakeing off a Tyrannical Power, Uſurp'd over the Subjects, as he did; for bringing himſelf to ſubmit to what he will have to be an Uſurpation upon a Legal Prince; he could not but have ſeen, that they who contributed towards this Revolution, diſcharged their Duty to God and their Country, much better than they; who were <hi>Unnatural</hi> to their Country, in adhereing to the Intereſt of one, whom the <hi>Doctor</hi> 
+               <note place="margin">Page 2. <hi>An Oath to fight for the King, does not oblige us to Fight againſt our Country; which is as <g ref="char:V">Ʋ</g>nnatural as to Fight againſt our King.</hi>
+               </note> deſcribes as a Tyrant, and <hi>Unnatural</hi> Lord.</p>
+            <p>Beſides the former Particulars, which in Juſtifying the Revo<g ref="char:EOLhyphen"/>lution, prove their Majeſties to have been <hi>Rightfully</hi> declared King and Queen; tho the <hi>Doctor</hi> will have the Diſpoſſeſſed Prince to remain <hi>Legal King,</hi> and to have Right to the Govern<g ref="char:EOLhyphen"/>ment, the <hi>Doctor</hi> ſhews their Majeſties Right to be Legal, now they are ſettled. He affirms, that <hi>[the Law it ſelf] as well as the Principles of Reaſon and Religion, have an<g ref="char:EOLhyphen"/>nexed</hi> 
+               <note place="margin">
+                  <hi>Page</hi> 59.</note> 
+               <hi>the Authority of Government to the Poſſeſſion of the Throne; that no Authority, but the States of the Realm,</hi> 
+               <note place="margin">
+                  <hi>page</hi> 52, 53.</note> 
+               <hi>can take Cognizance of the Titles and Claims of Princes; and the diſpoſal of the Crown; that private Subjects</hi> ought to ſubmit to their Determination; that <hi>no Law</hi> binds us <hi>to diſown a King, whom the Eſtates have owned:</hi> That ſuch a <hi>Poſſeſſor</hi> is a <hi>True</hi> and <hi>Rightful King;</hi> and has the True and <note place="margin">
+                  <hi>page</hi> 14.</note> Rightful <hi>Authority of King:</hi> Surely then he is a Legal King: and leſs Subtle Wits would not free themſelves from a Contradiction, in ſaying, that the Rival is the Legal King ſtill.</p>
+            <p>He has a doubtful Paſſage, where he may ſeem poſitively to de<g ref="char:EOLhyphen"/>ny that the ejected Prince continues a legal Prince: he admits that he and his Friends have been in a Miſtake, but whether in relation to the <hi>legal Prince,</hi> or the nature of the Allegiance due to him, you may take which you pleaſe; <hi>There is nothing,</hi> ſays he, <hi>to prejudice any Man againſt the preſent Government, or to</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 50<g ref="char:punc">▪</g>
+               </note>
+               <pb n="32" facs="tcp:50831:17"/> 
+               <hi>make the Reſtoration of the diſpoſſeſſed Prince neceſſary, but a miſtaken Notion of Allegiance to that Prince, whom we ſuppoſe to have the legal Right tho he be diſpoſſeſſed, and another eſtabliſhed in his Throne; which I have already prov'd to be a Miſtake.</hi>
+            </p>
+            <p>It was neceſſary for him to leave this with two Handles, leſt what he has driven at all along ſhould be taken for his poſitive Aſ<g ref="char:EOLhyphen"/>ſertion, that he and his Party <hi>ſuppoſe,</hi> that 'tis believ'd, That the late King has the Right ſtill, and this King is an <hi>Uſurper.</hi> Yet I take the genuine Senſe to be thus; <q rend="margQuotes">We have had miſtaken Notions of the Allegiance due to King <hi>James,</hi> whom we ſuppoſe to have the <hi>legal Right.</hi>
+               </q>
+            </p>
+            <p>But however, he, as I before obſerv'd, admits that in ſome Caſes God may <hi>leave a free People to chooſe their own</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 13.</note> 
+               <hi>King;</hi> ſays withal, That the late King <hi>in ſome ſenſe left his</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 50.</note> 
+               <hi>Throne vacant,</hi> and yields what infers it abſolutely. In which he ſhews the Submiſſion of the People to Their Majeſties to be full and legal, and that the Law of the Monarchy is preſerved: and one would think this ſhould make them <hi>legal and rightful King and Queen.</hi>
+            </p>
+            <p>And yet this may be prov'd more evidently out of the Doctor's own Conceſſions upon the Submiſſion of the People: Himſelf makes nothing wanting <note place="margin">Pag. 51. <hi>He begins to doubt whether this is re<g ref="char:EOLhyphen"/>quiſite, and uſes it but as the Objection of others.</hi> Pag. 9. <hi>He ſays inded, it</hi> may be thought neceſ<g ref="char:EOLhyphen"/>ſary; <hi>and the whole Book and Preface ſhew that himſelf thinks ſo.</hi>
+               </note> but the Submiſſion or Conſent of the legal King, to transfer a legal Right to the Poſ<g ref="char:EOLhyphen"/>ſeſſor. He ſays indeed it is nonſenſe to ſuppoſe the Conſent of the King <note place="margin">
+                  <hi>Pag.</hi> 59.</note> 
+               <hi>de jure:</hi> but if the Law ſhews that he con<g ref="char:EOLhyphen"/>ſented, I hope it is good Senſe and Reaſon to ſay that he has conſented: nor muſt the Doctor cavil if he yields ſuch Law to be in force.</p>
+            <p>He tells us, the Stat. 11 <hi>Hen.</hi> 7. which ſays in the <hi>Pre<g ref="char:EOLhyphen"/>amble,</hi> That <hi>Subjects ſhall be obliged to pay Allegiance to the</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 62.</note> 
+               <hi>King for the time being, is an authoritative Declaration of the</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 63.</note> 
+               <hi>Law;</hi> and himſelf ſhews, That this has been admitted for Law in the <hi>Reigns of legal and rightful Kings.</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 53.</note>
+            </p>
+            <p>He muſt farther yield, when preſs'd to it, that King <hi>James</hi> has directly conſented to that Law, and that as much as if it had been particularly recited to him; not only in accepting the Government under the legal Limitation, but in ſwearing to maintain the Laws in general, and to ſuffer them to have their courſe. If then this be the Law, he has ſubmitted and conſented to it; and his leaving the Government was as good as a recommending the Execution of it to his People.</p>
+            <pb n="33" facs="tcp:50831:17"/>
+            <p> And if he has conſented that they ſhould pay their Allegiance, where they ſhould make their Choice and <hi>Submiſſion;</hi> it follows, that he has conſented to the Tranſlation of that legal Right to their Al<g ref="char:EOLhyphen"/>legiance which he once had: But that which legally transfers the Allegiance of the Subject, muſt transfer the Right of the King; and he who has no Right to their Allegiance, has no Right to be their King.</p>
+            <p>I hope when the Doctor has conſider'd this matter, he will ſay that the late King has no manner of Right; and that their Maje<g ref="char:EOLhyphen"/>ſties are our only <hi>Lawful</hi> and <hi>Rightful</hi> Soveraigns.</p>
+            <p>Fourthly, His Excuſe for holding ſo long off, and Account of his Behaviour while he did, is very lame and unſatisfactory.</p>
+            <p n="1">I. It manifeſtly appears, that he held off, and came in, upon the ſame Principles; and it may ſeem very ſtrange, that a Man ſhould be ſo long in underſtanding what neceſſarily flows from his own Doctrine: what he now retracts, is evidently contrary to his own Senſe of the <hi>13th</hi> to the <hi>Romans,</hi> Preached and Pub<g ref="char:EOLhyphen"/>liſhed ſix Years ſince; and if a Jewiſh Example <note place="margin">
+                  <hi>An.</hi> 1684.</note> made him then bring in an Exception to his Rule, <note place="margin">
+                  <hi>Vid. the exam<g ref="char:EOLhyphen"/>ample of</hi> Joaſh. <hi>Pref.</hi> p. 6. <hi>Book</hi> p. 34, 35.</note> he might have had as full an Example to ſet aſide the Exception, in the Caſe of <hi>Rehoboam;</hi> who, for ſlighting that Conſtitution by which he was to go<g ref="char:EOLhyphen"/>vern, was adjudged, by God himſelf, to have forfeited his Right, and particularly commanded not to claim it by Arms. The Go<g ref="char:EOLhyphen"/>vernment eſtabliſhed upon that Revolt was more plainly <hi>God's Or<g ref="char:EOLhyphen"/>dinance,</hi> than the Doctor's Uſurpers and Tyrants. Wherefore, for all the Jewiſh Preſidents, he might have kept throughout to his own Interpretation of the Text, and have believ'd that it made Uſur<g ref="char:EOLhyphen"/>pation as well as Tyranny, God's Ordinance; eſpecially ſince it is evident, that the Text relates to both, or neither.</p>
+            <p>
+               <hi>Obj.</hi> Indeed I meet with an Objection to this in both his Trea<g ref="char:EOLhyphen"/>tiſes of Government; <hi>viz.</hi> That only the Kingdom of <hi>Judah</hi> had been entail'd on <hi>David</hi>'s Poſterity, <note place="margin">
+                  <hi>Caſe of Reſiſt.</hi> p. 131.</note> and that <hi>nothing could juſtifie an Uſurpation againſt his Poſterity</hi> within that Kingdom, tho it might be ju<g ref="char:EOLhyphen"/>ſtifiable <note place="margin">
+                  <hi>Caſe of All.</hi> p. 35.</note> as to that of <hi>Iſrael:</hi> but in truth, the Doctor here comes to his Rule from Succeſs; they kept <hi>Judah,</hi> but loſt <hi>Iſrael,</hi> which had been included within the firſt Set<g ref="char:EOLhyphen"/>tlement. <hi>God Almighty,</hi> by his Prophet, told <hi>Solomon, If</hi> 
+               <note place="margin">1 <hi>Kings,</hi> 9. 4, 5.</note> 
+               <hi>you will keep my Statutes, and my Judgments, then I will establiſh the Throne of thy Kingdom upon Iſrael for ever; as I promiſed to</hi> David <hi>thy Father, ſaying, There ſhall not fail thee a man up<g ref="char:EOLhyphen"/>on
+<pb n="34" facs="tcp:50831:18"/> the Throne of Iſrael.</hi> And it appears by two Texts mentioning what had been promiſed to <hi>David,</hi> that <note place="margin">1 <hi>Cron.</hi> 22. 2. <hi>Sam.</hi> 7. 12.</note> it was without any Condition expreſſed; yet it ſeems ſubject to the Limitation, or Law of that Government, which was appointed to take place when they ſhould <hi>ſet a King over them.</hi> Yet you muſt underſtand, that what <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> 
+               <note place="margin">
+                  <hi>Deut.</hi> 17. 14. <hi>to the end.</hi>
+               </note> foretold would be the <hi>Manner</hi> of the King, muſt, with the Doctor, needs have been their <hi>Right:</hi> and then God's Se<g ref="char:EOLhyphen"/>verity to <hi>Rehoboam</hi> could not ſo well be accounted for.</p>
+            <p>God had acquainted <hi>Jeroboam</hi> who was choſen in the ſtead of the Deſcendant from <hi>David,</hi> with his purpoſe to give him <hi>Ten Tribes,</hi> and to leave <hi>one</hi> to <hi>Rehoboam:</hi> but this <note place="margin">1 <hi>King.</hi> 11. 35, 36.</note> was but a Prophecy of the Event, no Promiſe made to that he ſhould keep <hi>Judah:</hi> and as to the Revolution, did <note place="margin">Rehoboam</note> but foretell what <hi>God</hi> would bring about by a free Ele<g ref="char:EOLhyphen"/>ction of the People, in which <hi>Rehoboam</hi> was whol<g ref="char:EOLhyphen"/>ly <note place="margin">
+                  <hi>c.</hi> 12. <hi>v.</hi> 20.</note> paſſive.</p>
+            <p>I muſt confeſs, it is not unſuitable to the Doctor's Hypotheſis, to make every Prophecy of an Event to confer a Right; which would excuſe them who were acceſſary to our Saviour's Suf<g ref="char:EOLhyphen"/>ferings; which were not only foretold, but as the Words may ſeem to import, inflicted by God's Command, in that of the Prophet <hi>Zacariah, Smite the Shepherd;</hi> which our Saviour ſhews to have been meant in relation to his own Suffering. <note place="margin">
+                  <hi>Zach.</hi> 13. 7. <hi>Mat.</hi> 26. 31.</note>
+            </p>
+            <p>But the Caſe of <hi>Rehoboam,</hi> if the Doctor had taken the pains to compare the Texts of <hi>Scripture,</hi> might have had more weight to bring him in to this Government at the beginning, than the Caſe of <hi>Joaſh,</hi> which himſelf anſwers, could to keep him off: eſpecially ſince that Caſe was an Exception to his Senſe of the <hi>13th</hi> to the <hi>Romans,</hi> which he thought meant of the Au<g ref="char:EOLhyphen"/>thority of Perſons, without Limitation to Law; and <note place="margin">
+                  <hi>Pag.</hi> 13.</note> with the very ſame way of Reaſoning he muſt needs have concluded meant of Perſons in Authority, without regard to <hi>Right:</hi> which he now lays down for a Principle.</p>
+            <p n="2">II. He pretends in taking the Oath now, to ſubmit to the <hi>venerable Authority</hi> of a <hi>Convocation.</hi> But,</p>
+            <p n="1">1. The Preſumption is very ſtrong that he had ſeen Biſhop <hi>Ove<g ref="char:EOLhyphen"/>ral</hi>'s Book ſome Months before he had <hi>forfeited</hi> his Preferments; but King <hi>James</hi> was then <hi>powerful</hi> in <hi>Ireland, Presbytery</hi> not fully ſetled in <hi>Scotland,</hi> and the <hi>Church-Rebels</hi> there were in a Body, and in daily Expectation of Aid from <hi>France</hi> and <hi>Ireland;</hi> but it is to be hop'd that no Man here had Expectations from either.</p>
+            <p n="2">2. He pretends to ſubmit to the Authority of the <hi>Church,</hi> that
+<pb n="35" facs="tcp:50831:18"/> is, <hi>Churchmen,</hi> or rather ſome one leading Man like himſelf, who dictated and gave Laws to the reſt: but 'tis plain, he follows only his own head-ſtrong Reaſon, which has rarely been <note place="margin">
+                  <hi>Pref. p.</hi> 15.</note> 
+               <hi>cramp'd with the Apprehenſions of Novelty and Singularity.</hi>
+            </p>
+            <p>The Church ſays, <hi>The Phariſees, in refuſing to bind</hi> 
+               <note place="margin">
+                  <hi>Caſe of Alleg.</hi> pag. 7.</note> 
+               <hi>their Allegiance and Faith to</hi> Caeſar <hi>by an Oath, did there<g ref="char:EOLhyphen"/>by ſhew themſelves traiterouſly affected towards him.</hi>
+            </p>
+            <p>The Doctor brings himſelf as an Exception to this Rule; for he Prayed for their Majeſties as put <hi>in Authority</hi> by <hi>God</hi>'s Hand: yet would not Swear to it.</p>
+            <p>That founds the Authority of all <hi>Princes</hi> in the <hi>Patriarchal;</hi> the Doctor makes this as obſcure and uncertain as he renders our Law, both for the <hi>bounds</hi> of Kingdoms and <note n="*" place="margin">
+                  <hi>Page</hi> 11.</note> 
+               <hi>extent</hi> of Power, and ſets up an Authority of God's immediate Gift, without limits.</p>
+            <p>That ſhews that the <hi>Rump Parliament,</hi> if ever ſetled, had <hi>God's Authority:</hi> he would ſeem not to admit this.</p>
+            <p>That makes it at leaſt doubtful whether a Government can be ſetled while the <hi>rightful</hi> Prince, who once had Poſſeſſion, lives: this he would evade.</p>
+            <p>Had not the Love of Tyranny been more deeply rooted with the Doctor, than his Averſion to Uſurpation; the <hi>venerable Autho<g ref="char:EOLhyphen"/>rity</hi> of <hi>his Church,</hi> I cannot ſay of the <hi>Church of England,</hi> might have ſatisfied him, that in ſome Caſes it may be as lawful to reſiſt the Perſon of a <hi>Tyrant,</hi> as to ſubmit to an <hi>Uſurper.</hi>
+            </p>
+            <p>When the Thread of their <hi>Canonical Hiſtory,</hi> drawn up out of Ethnick and Apocryphal Writlngs, brought to accompany the Sa<g ref="char:EOLhyphen"/>cred Scriptures, led them to the Story of the <hi>Maccabees;</hi> they ſay, That <hi>Mattathias, moved with the monſtrous Cruelty and Tyranny of</hi> Antiochus, <hi>made open Reſiſtance,</hi> and they aſſign a Reaſon, or rather Juſtification of this, <hi>viz. The Government of that Tyrant not then being either generally received by Submiſſion, or</hi> 
+               <note place="margin">Overall<hi>'s Con<g ref="char:EOLhyphen"/>voc.</hi> p. 67.</note> 
+               <hi>ſetled by Continuance:</hi> which is a manifeſt Confeſſion, that a Tyranny which neither we nor our Forefathers have con<g ref="char:EOLhyphen"/>ſented or ſubmitted to, is not <hi>God's Ordinance;</hi> but <note place="margin">
+                  <hi>Pag.</hi> 30. <hi>Himſelf ſays, the Law ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſet Bounds to So<g ref="char:EOLhyphen"/>vereign Power.</hi>
+               </note> that limited Prince, who attempts to introduce it, may be reſiſted by force; till he is ſtrong enough to compel a <hi>Submiſſion</hi> to his moſt arbitrary Exerciſe of Power.</p>
+            <p>The Senſe of the Church, if we believe what the Doctor decla<g ref="char:EOLhyphen"/>red of it when time ſerv'd, is, that they who exerciſe <note place="margin">Vid. Sermons of Church-Communion.</note> their Miniſtry without ſuch Qualifications as the Law requires, are guilty of <hi>Schiſm;</hi> and they who commu<g ref="char:EOLhyphen"/>nicate
+<pb n="36" facs="tcp:50831:19"/> with them, communicate in a Schiſm: but the Doctor, after he was convinc'd that their Majeſties had Power from God to make Laws in Parliament, did exerciſe his Miniſtry before he had qualified himſelf as the Law requires; which perhaps may drive him to a new Notion of <hi>Schiſm,</hi> and ſatisfie him that he has <hi>Taught</hi> one Error more than he has thought fit to recant.</p>
+            <p n="3">III. By his own Confeſſion, their <hi>Majeſties</hi> were in full <hi>Poſſeſſion of the Throne, and Adminiſtration of the Government, by a National Sub<g ref="char:EOLhyphen"/>miſſion;</hi> as ſoon as the Convention, at leaſt the following Parlia<g ref="char:EOLhyphen"/>ment, had declared for them; and he grants that ſuch <hi>Conſent</hi> and <hi>Submiſſion makes a Settlement.</hi>
+            </p>
+            <p>According to this, he ought to have taken the Oaths, as ſoon as ſome Mens Hopes, in the New <hi>Parliament,</hi> were diſappointed; and to have done it then, had not been ſuch a <hi>Forward Compliance</hi> as he condemns.</p>
+            <p>The <hi>Submiſſion</hi> of the People, and Determination of <hi>the Eſtates of the Realm,</hi> he owns to be concluſive <note place="margin">Page 50, 51, 52, 53. <hi>page</hi> 18.</note> to all <hi>Private Subjects;</hi> yet did not pay <hi>entire Obe<g ref="char:EOLhyphen"/>dience and Allegiance,</hi> even in his own Senſe, till the late King had left <hi>Ireland;</hi> ſo that he ſeemed to ſtay till he might ſee the <hi>Power of the Diſpoſſeſſed Prince</hi> broken; which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expreſs words make material: And he, it ſeems, <hi>thought it doubtful, whether Providence had</hi> 
+               <note place="margin">
+                  <hi>page</hi> 17.</note> 
+               <hi>ſetled the Poſſeſſor in the Throne, while the other had a formidable Army.</hi> Upon which 'tis obſervable.</p>
+            <list>
+               <item>1. That this argues him to be more than a <hi>Private Perſon,</hi> or not to have been a Subject, till he Swore Allegiance.</item>
+               <item>2. If the <hi>Power</hi> be no more broken now, than it was at the beginning, that Argument fails.</item>
+               <item>3. If it were as much broken at the beginning, as now, that was not the Argument, but ſome more private Motive.</item>
+               <item>4. If that Argument cannot have full force now, himſelf, in holding out ſo long, and others of his opinion, in coming into this Government, with the ſame opinion, and retaining it; may be thought, in great meaſure, the occaſion.</item>
+            </list>
+            <p>Tho Providence had made a Settlement early, it was prudent, not to venture too far on its ſide; and to ſee whether it was any more than a pattern or platform, to be pulled in pieces preſently, as ſoon as <hi>God Almighty</hi> had taken a view of his <hi>Handy-work.</hi>
+            </p>
+            <p>Or rather, tho this was a <hi>Settlement</hi> which bound the <hi>Laity,</hi> the <hi>Clergy, Gods peculiar Lot and Inheritance,</hi> had an <hi>Exemption;</hi> till himſelf had ſpoken to them by <hi>his Church.</hi> At leaſt they ought to ſtay till they ſaw the <hi>Church of England</hi> ſecured; and that there was
+<pb n="37" facs="tcp:50831:19"/> 
+               <hi>no</hi> 
+               <note n="*" place="margin">
+                  <hi>Page</hi> 50.</note> 
+               <hi>proſpect of ſecuring it by any other means:</hi> then their Intereſt obliged them; to pretend to Loyalty with the forwardeſt: Shall they ungratefully reject this Bleſſing from Heaven!</p>
+            <p>While they keep up an Empire within an Empire, the Changes of Civil Government will not bind them, till they are ſubdued upon the Struggle, and by Providence condemned to Affairs truly Spiritu<g ref="char:EOLhyphen"/>al Good God! How long ſhall Men be made <hi>Slaves,</hi> and the Peace and Settlement of Kingdoms, <note n="†" place="margin">
+                  <hi>P.</hi> 45.</note> 
+               <hi>Properties,</hi> to an equivocal Word!</p>
+            <p>When they have to deal with thoſe of <hi>Rome,</hi> then in pious Condeſcention, and Chriſtian Charity to <note place="margin">
+                  <hi>Vid. Dr.</hi> Sher<g ref="char:EOLhyphen"/>lock, <hi>of the <g ref="char:V">Ʋ</g>nity of the Church, compared with his Sermons, and Tracts of Church-Communion, and <g ref="char:V">Ʋ</g>nion with Chriſt Jeſus.</hi>
+               </note> themſelves, the <hi>Laity</hi> ſhall be called in to their Aid.</p>
+            <p>When a turn of theirs is to be ſerv'd or colour'd, then <hi>Church-men</hi> alone, without a King, are <hi>as good Authority as can be urged, to the Members of the Church of</hi> England. For the moſt part <hi>Church-men,</hi> with a King at the Head of them, are the <note place="margin">
+                  <hi>page</hi> 10.</note> Supream Authority, and Judges in all Controverſies about Civil, as well as Eccleſiaſtical Matters; and neither can aſcribe too much to the other, while they hold together: Sometimes <hi>Conſtantine</hi> and his <hi>Arrians,</hi> at other times he and the <hi>Orthodox,</hi> are the true Church: But <hi>Orthodoxy,</hi> like Civil Government, went along with the <hi>Power.</hi>
+            </p>
+            <p>Tho the <hi>right Faith,</hi> like the Diſpoſſeſſed <hi>legal King,</hi> may re<g ref="char:EOLhyphen"/>tain the <hi>Right</hi> ſtill unaltered; yet Error carries on the <hi>Name</hi> of <hi>Church,</hi> as well as the other does that of <hi>Government;</hi> and ought to be ſubmitted, ſubſcribed, and ſworn to, as long as it has <hi>Power</hi> to <hi>Cruſh</hi> the Obſtinate Refuſers.</p>
+            <p>Gods Authority, if not Infallibility, attends the <hi>Chair,</hi> when it ſtands guarded in Conjunction with the Throne; and no Man ought Saucily to <hi>Affront</hi> the <hi>Powers,</hi> by preaching up the <hi>True Religion,</hi> where a <hi>Falſe one</hi> is ſettled. Nay, they ought to pray, that God would <hi>keep and ſtrengthen</hi> the <hi>Power</hi> in that <hi>Falſe Worſhip.</hi> And according to ſome Mens <hi>Reaſons,</hi> Error in the Chair is more <hi>Gods Ordinance,</hi> than <hi>Truth</hi> out of it. All the Stories of Miracles wrought at the Tombs of Martyrs, muſt be look'd on as lying Legends; for who can think that God would give ſuch publick Approbation to their <hi>Affronting</hi> his Ordinance and Authority!</p>
+            <p>Fifthly, It is probable the <hi>Doctor</hi> did not perform his Duty to the late King, upon his own Interpretation of Scripture and Pro<g ref="char:EOLhyphen"/>vidence, even before the Abdication: But that he did not after, is evident; for, while he not only thought him to have the
+<pb n="38" facs="tcp:50831:20"/> Right, as it is to be preſum'd, he does ſtill, but that God had ſet up no other Government; he did not uſe the means in his power, for the reſtoring him to full Poſſeſſion: and preferred his own Safety to the Obligation of his Oath, to maintain and defend his <hi>Right;</hi> which whether <hi>poſſible</hi> or no, the event only could ſhew: but it is a ſafe Rule to run no <note place="margin">
+                  <hi>page</hi> 16.</note> Hazard. He ſtill leaves him a Right to contend for his loſt Crown; but ſets up the Supream Law, <hi>common Safety,</hi> againſt that Sacred and unalterable Right.</p>
+            <p>I ſhall forbear to draw together, into full light, all thoſe In<g ref="char:EOLhyphen"/>ſtances, whereby it appears, that he is far from ſerving their Majeſties: But in one reſpect he has not followed the Rules of Prudence, in relation to his own Intereſt.</p>
+            <p>How much ſoever <hi>W.</hi> I. might graſp at an <hi>Abſolute Power,</hi> it is plain from Hiſtory and Records, that he would not pretend to the Name of <hi>Conqueror,</hi> leaſt he ſhould create a Jealouſie in his People. And had the <hi>Clergy</hi> of that Age, Flatter'd like others ſince, he would have certainly ſhewn Marks of his Diſpleaſure; if it had been for no other reaſon, but that he might demonſtrate to his People, that they ought to have no Apprehenſions of loſing their Rights and Liberties upon the Change. I ſhall run the Pa<g ref="char:EOLhyphen"/>rallel no farther, than to ſay, That no Man can reaſonably ex<g ref="char:EOLhyphen"/>pect their Majeſties Favour, who tells them, or the World, that they are inveſted with an Abſolute Power of the Gift of God, <hi>without regard to Right, without regard to Law.</hi>
+            </p>
+            <p>Arbitrary Power, tho it is a Plant which riſes towards Heaven; as it pretends a Deſcent from thence; is not likely to over-top King <hi>William</hi>'s Laurels.</p>
+            <p>It is a Contradiction to the end, and effect of his coming, an Enemy to his <hi>Crown and Dignity,</hi> a Friend and Creature of <hi>France</hi> and King <hi>James;</hi> Nurſed up here for their Service. And as it gave Riſe to that Power, with which its Chief Patron has plagued Man<g ref="char:EOLhyphen"/>kind; its Teachers cannot but expect a Reward, or more eaſie Servitude than others, if he ſhould accompliſh that Univerſal Ty<g ref="char:EOLhyphen"/>ranny, for which it is calculated.</p>
+            <p>The <hi>Doctor</hi> affirms, with great Aſſurance, that his <hi>are the only Principles, which in ſuch Revolutions,</hi> as <note place="margin">
+                  <hi>page</hi> 43.</note> he treats of, <hi>can make Government eaſie both to Prince and People. And,</hi> ſays he, <hi>if Government muſt be preſerved in all Re<g ref="char:EOLhyphen"/>volutions, thoſe are the beſt Principles, which are moſt for the Eaſe and Safety of it: But,</hi>
+            </p>
+            <p n="1">1. If the Government be limited, it is not for its <hi>Eaſe and Safety,</hi> that the Prince ſhould be thought to have an Arbitrary Power of Gods Gift.</p>
+            <p n="2">
+               <pb n="39" facs="tcp:50831:20"/> 2. If the Perſon of the Prince be the Government; it is not for his <hi>Eaſe and Safety,</hi> that no Laws, no <hi>Submiſſion of the People,</hi> can engage his Subjects to this Prince, againſt a ſuppoſed <hi>Legal King.</hi>
+            </p>
+            <p n="3">3. It it much more eaſie to perſwade Men to refer the Determination <hi>of Legal Rights, to the Legal Autho<g ref="char:EOLhyphen"/>rity</hi> 
+               <note place="margin">
+                  <hi>page</hi> 52.</note> 
+               <hi>of the Eſtates of the Realm,</hi> which the <hi>Doctor</hi> owns to be concluſive; than to ſatisfie them that they ought to Swear Allegiance to a King, while a <hi>Legal Right</hi> remains to his Rival.</p>
+            <p n="4">4. How much ſoever Subjects may be harangued into a Neu<g ref="char:EOLhyphen"/>trality, they who aſſiſt neither, are likely to be treated as Enemies, which ſide ſoever prevails.</p>
+            <p>But the Philoſophy of <hi>Hobbs,</hi> or Divinity of the Graver <hi>Stoicks,</hi> agree neither with our Conſtitution, nor with Gods Methods, in governing the World.</p>
+            <p>If the firſt ſhut God out of the Government, the other brings a Deity upon the Stage, as Familiarly as Poets with their Fictions, or Players in their Machines. And it is obſervable, that tho God is made the Actor and Authorizer of the Event, he is render'd a <hi>Non<g ref="char:EOLhyphen"/>aſſiſter</hi> of either of theſe Kings, as well as the Subjects are; Divine Right, and Divine Providence, poizing the Scales.</p>
+            <p>According to that of the Poet.</p>
+            <q>Victrix cauſa Diis placuit, ſed victa Catoni.</q>
+            <p>Where the <hi>Hero</hi> has a more noble and generous Character than his Gods.</p>
+            <p>But that I may not only overthrow the Doctors <hi>Startleing Scheme</hi> of Government, without advancing <note place="margin">
+                  <hi>page</hi> 3.</note> another, I conceive theſe Propoſitions may do more good in the World.</p>
+            <p n="1">1. That Allegiance is a Legal Bond or Tye, importing <hi>Active,</hi> as well as <hi>Paſſive Obedience,</hi> to Legal Authority.</p>
+            <p n="2">2. That he to whom Allegiance is not due, is not <hi>Legal King,</hi> nor has Right ſo to be; or ever can be, without a new <hi>Submiſſion</hi> of the People, either of Free Choice, or by Conſtraint: unleſs it be by the viſible Deſignation and Appointment of <hi>God Almighty.</hi>
+            </p>
+            <p n="3">3. That no Divine Law, or juſt Inference from thence, ſets aſide Humane Conſtitutions ſuitable to Chriſtianity, and beneficial to Civil Societies.</p>
+            <p n="4">4. That no Divine Interpoſition, or Act of God, which is not ſo viſible as may ſatisfie all Men, before the Succeſs, what is the Will of God; can be ſaid Authoritatively to alter or diminiſh Rights to Crowns, or the Liberties or Properties of Subjects.</p>
+            <p n="5">
+               <pb n="40" facs="tcp:50831:21" rendition="simple:additions"/> 5. That Humane Conſtitutions may be vertually Repeal'd or Suſpended; when they ceaſe to anſwer the main end, or Law, the good of the reſpective Societies.</p>
+            <p n="6">6. That they who contributed towards our preſent <hi>Settlement,</hi> did what had been juſtifiable, tho they had fail'd of Succeſs; the late King having long before ceaſed to be a <hi>Legal King.</hi>
+            </p>
+            <p n="7">7. That Their <hi>Majeſties</hi> are our ſole <hi>Lawful</hi> and <hi>Rightful King</hi> and <hi>Queen,</hi> according not only to the Supreme Law, the publick Good; but to the poſitive Laws and Conſtitutions of this Government, known and declared, as there has been occaſion, in all Ages from the firſt Foundation of this <hi>limited Monarchy.</hi>
+            </p>
+            <p n="8">8. That they no more conſult the Honor and Intereſt of their Majeſties, than the common Safety; who now advance the old de<g ref="char:EOLhyphen"/>canted Doctrine of <hi>Non-Reſiſtance</hi> and <hi>Paſſive Obedience,</hi> to a Power exercis'd <hi>without any regard to legal Right, or humane Laws.</hi>
+            </p>
+            <p>Dr. <hi>Sherlock</hi> owns it, as it was taught by himſelf and Dean <hi>Hicks,</hi> to be a meer <hi>Jacobite.</hi> The Doctor now ſets it forth in a new ſhape, with King <hi>William</hi>'s Livery; but it's only a Picture in a Scene, which can<g ref="char:EOLhyphen"/>not ſtir to help in any Exigency. He makes it the Doctrine of Fate, which was taught by one Sect among the Heathens, and laugh'd at by all others. He, who has baptiz'd it by the <hi>Chriſtian Name</hi> of <hi>Providence,</hi> can find no other <hi>Godfather</hi> to it but himſelf; yet is far from <hi>promiſing and vowing in its Name,</hi> that it <hi>ſhall manfully reſiſt the Devil and all his Works,</hi> it is enough not to <hi>aſſiſt:</hi> If the <hi>Devil</hi> and his <hi>Agents</hi> get the better, their <hi>Authority is God</hi>'s <hi>Ordinance;</hi> and it is no Sin to follow whither Fate draws.</p>
+            <p>But the <hi>Doctor</hi> has taken it from common Drudgery, and honorably confin'd it to the Government of States and Kingdoms: in private Robberies it gives not the Robber <hi>Authority</hi> over Perſons, as it does to Uſurpers; he has only <hi>Right</hi> to what it puts into his hand. <note place="margin">
+                  <hi>Pag.</hi> 24.</note>
+            </p>
+            <p>This Doctrine, which is always attendant upon Fate or Providence, is the Cler<g ref="char:EOLhyphen"/>gie's Writ of eaſe, the Prince's falſe Friend, and changeable Courtier; but profeſſed Enemy to the reſt of Mankind.</p>
+            <p>It ſerved the King-craft of <hi>James</hi> I. though he had not the Courage to give San<g ref="char:EOLhyphen"/>ction to thoſe <hi>Canons,</hi> which would enforce it by <hi>Spiritual Thunder:</hi> proved Fatal to his Son; enabled the two Brothers to Revenge the Contempt of it; ſeem'd to ex<g ref="char:EOLhyphen"/>pire under the laſt; but gave dangerous Symptoms of Life and Vigor upon the <hi>Abdication.</hi>
+            </p>
+            <p>Since this <hi>evil Spirit</hi> now haunts the Land again; it is a Task worthy of your Pen, to ſend it well whipped to the place from whence it came; and to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it to its native Shades, that it may never riſe in dark Clouds to <hi>blacken</hi> our Deliverance. <note place="margin">
+                  <hi>Pref. Pag.</hi> 4.</note>
+            </p>
+            <p>This the World expects from you, and is earneſtly deſired by,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Faithful Friend and Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Page 32. Line 7. Read, <hi>that is, believe.</hi>
+            </p>
+            <pb facs="tcp:50831:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
